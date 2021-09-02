@@ -14,112 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L pspice:C C1
-U 1 1 60F31FB8
-P 2000 3300
-AR Path="/5EA98F1B/60F31FB8" Ref="C1"  Part="1" 
-AR Path="/60B9480C/60F31FB8" Ref="C4"  Part="1" 
-AR Path="/60B94B7E/60F31FB8" Ref="C7"  Part="1" 
-AR Path="/60B95D06/60F31FB8" Ref="C10"  Part="1" 
-AR Path="/60B95D0B/60F31FB8" Ref="C13"  Part="1" 
-AR Path="/60B95D10/60F31FB8" Ref="C16"  Part="1" 
-AR Path="/60B99A53/60F31FB8" Ref="C19"  Part="1" 
-AR Path="/60B99A58/60F31FB8" Ref="C22"  Part="1" 
-AR Path="/60B99A5D/60F31FB8" Ref="C25"  Part="1" 
-AR Path="/60B99A62/60F31FB8" Ref="C28"  Part="1" 
-AR Path="/60B99A67/60F31FB8" Ref="C31"  Part="1" 
-AR Path="/60B99A6C/60F31FB8" Ref="C34"  Part="1" 
-F 0 "C34" H 2178 3391 50  0000 L CNN
-F 1 "C" H 2178 3346 50  0001 L CNN
-F 2 "" H 2000 3300 50  0001 C CNN
-F 3 "~" H 2000 3300 50  0001 C CNN
-F 4 "C" H 2000 3300 50  0001 C CNN "Spice_Primitive"
-F 5 ".47u" H 2178 3300 50  0000 L CNN "Spice_Model"
-F 6 "Y" H 2000 3300 50  0001 C CNN "Spice_Netlist_Enabled"
-F 7 "16V" H 2178 3209 50  0000 L CNN "Vmax"
-	1    2000 3300
-	1    0    0    -1  
-$EndComp
-$Comp
-L pspice:C C2
-U 1 1 60F3306C
-P 2600 3300
-AR Path="/5EA98F1B/60F3306C" Ref="C2"  Part="1" 
-AR Path="/60B9480C/60F3306C" Ref="C5"  Part="1" 
-AR Path="/60B94B7E/60F3306C" Ref="C8"  Part="1" 
-AR Path="/60B95D06/60F3306C" Ref="C11"  Part="1" 
-AR Path="/60B95D0B/60F3306C" Ref="C14"  Part="1" 
-AR Path="/60B95D10/60F3306C" Ref="C17"  Part="1" 
-AR Path="/60B99A53/60F3306C" Ref="C20"  Part="1" 
-AR Path="/60B99A58/60F3306C" Ref="C23"  Part="1" 
-AR Path="/60B99A5D/60F3306C" Ref="C26"  Part="1" 
-AR Path="/60B99A62/60F3306C" Ref="C29"  Part="1" 
-AR Path="/60B99A67/60F3306C" Ref="C32"  Part="1" 
-AR Path="/60B99A6C/60F3306C" Ref="C35"  Part="1" 
-F 0 "C35" H 2778 3391 50  0000 L CNN
-F 1 "C" H 2778 3300 50  0001 L CNN
-F 2 "" H 2600 3300 50  0001 C CNN
-F 3 "~" H 2600 3300 50  0001 C CNN
-F 4 "C" H 2600 3300 50  0001 C CNN "Spice_Primitive"
-F 5 "100p" H 2778 3300 50  0000 L CNN "Spice_Model"
-F 6 "Y" H 2600 3300 50  0001 C CNN "Spice_Netlist_Enabled"
-F 7 "50V" H 2778 3209 50  0000 L CNN "Vmax"
-	1    2600 3300
-	1    0    0    -1  
-$EndComp
-$Comp
-L pspice:C C3
-U 1 1 60F35AED
-P 5100 4500
-AR Path="/5EA98F1B/60F35AED" Ref="C3"  Part="1" 
-AR Path="/60B9480C/60F35AED" Ref="C6"  Part="1" 
-AR Path="/60B94B7E/60F35AED" Ref="C9"  Part="1" 
-AR Path="/60B95D06/60F35AED" Ref="C12"  Part="1" 
-AR Path="/60B95D0B/60F35AED" Ref="C15"  Part="1" 
-AR Path="/60B95D10/60F35AED" Ref="C18"  Part="1" 
-AR Path="/60B99A53/60F35AED" Ref="C21"  Part="1" 
-AR Path="/60B99A58/60F35AED" Ref="C24"  Part="1" 
-AR Path="/60B99A5D/60F35AED" Ref="C27"  Part="1" 
-AR Path="/60B99A62/60F35AED" Ref="C30"  Part="1" 
-AR Path="/60B99A67/60F35AED" Ref="C33"  Part="1" 
-AR Path="/60B99A6C/60F35AED" Ref="C36"  Part="1" 
-F 0 "C36" H 5278 4546 50  0000 L CNN
-F 1 "1uF" H 5278 4455 50  0001 L CNN
-F 2 "" H 5100 4500 50  0001 C CNN
-F 3 "~" H 5100 4500 50  0001 C CNN
-F 4 "C" H 5100 4500 50  0001 C CNN "Spice_Primitive"
-F 5 "1u" H 5278 4455 50  0000 L CNN "Spice_Model"
-F 6 "Y" H 5100 4500 50  0001 C CNN "Spice_Netlist_Enabled"
-	1    5100 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R_US R1
-U 1 1 60F37AD0
-P 5100 3900
-AR Path="/5EA98F1B/60F37AD0" Ref="R1"  Part="1" 
-AR Path="/60B9480C/60F37AD0" Ref="R2"  Part="1" 
-AR Path="/60B94B7E/60F37AD0" Ref="R3"  Part="1" 
-AR Path="/60B95D06/60F37AD0" Ref="R4"  Part="1" 
-AR Path="/60B95D0B/60F37AD0" Ref="R5"  Part="1" 
-AR Path="/60B95D10/60F37AD0" Ref="R6"  Part="1" 
-AR Path="/60B99A53/60F37AD0" Ref="R7"  Part="1" 
-AR Path="/60B99A58/60F37AD0" Ref="R8"  Part="1" 
-AR Path="/60B99A5D/60F37AD0" Ref="R9"  Part="1" 
-AR Path="/60B99A62/60F37AD0" Ref="R10"  Part="1" 
-AR Path="/60B99A67/60F37AD0" Ref="R11"  Part="1" 
-AR Path="/60B99A6C/60F37AD0" Ref="R12"  Part="1" 
-F 0 "R12" H 5168 3946 50  0000 L CNN
-F 1 "75" H 5168 3855 50  0001 L CNN
-F 2 "" V 5140 3890 50  0001 C CNN
-F 3 "~" H 5100 3900 50  0001 C CNN
-F 4 "R" H 5100 3900 50  0001 C CNN "Spice_Primitive"
-F 5 "75" H 5168 3855 50  0000 L CNN "Spice_Model"
-F 6 "Y" H 5100 3900 50  0001 C CNN "Spice_Netlist_Enabled"
-	1    5100 3900
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector:Conn_01x03_Male J1
 U 1 1 60F387FB
 P 6400 3300
@@ -145,19 +39,9 @@ $EndComp
 Wire Wire Line
 	6200 3200 5900 3200
 Wire Wire Line
-	2600 2750 2600 3050
-Wire Wire Line
 	2600 2750 2000 2750
 Wire Wire Line
-	2000 2750 2000 3050
-Wire Wire Line
-	6200 3300 5100 3300
-Wire Wire Line
-	5100 3300 5100 3750
-Wire Wire Line
 	5900 2750 5900 3200
-Wire Wire Line
-	5100 4050 5100 4250
 $Comp
 L power:GNDREF #PWR01
 U 1 1 60F42A50
@@ -254,12 +138,6 @@ Wire Wire Line
 	6200 3400 6000 3400
 Wire Wire Line
 	6000 3400 6000 3800
-Wire Wire Line
-	5100 4750 5100 4950
-Wire Wire Line
-	2600 3550 2600 3750
-Wire Wire Line
-	2000 3550 2000 3800
 Text Label 5900 2750 0    50   ~ 0
 Vs
 Text Label 5600 3300 0    50   ~ 0
@@ -293,9 +171,6 @@ Connection ~ 2600 2750
 Wire Wire Line
 	4900 3500 4900 3300
 Wire Wire Line
-	4900 3300 5100 3300
-Connection ~ 5100 3300
-Wire Wire Line
 	4100 4250 4100 4550
 $Comp
 L LM35DZ/NOPB:LM35DZ_NOPB U1
@@ -324,4 +199,115 @@ F 7 "D:\\Cloud Files\\Personal Files\\Stuff\\PPE Project\\Parts\\LM35DZ_NOPB\\20
 	1    3300 3250
 	1    0    0    -1  
 $EndComp
+$Comp
+L CL05A105KO5NNNC:CL05A105KO5NNNC C3
+U 1 1 6141E476
+P 5100 4350
+AR Path="/5EA98F1B/6141E476" Ref="C3"  Part="1" 
+AR Path="/60B9480C/6141E476" Ref="C6"  Part="1" 
+AR Path="/60B94B7E/6141E476" Ref="C9"  Part="1" 
+AR Path="/60B95D06/6141E476" Ref="C12"  Part="1" 
+AR Path="/60B95D0B/6141E476" Ref="C15"  Part="1" 
+AR Path="/60B95D10/6141E476" Ref="C18"  Part="1" 
+AR Path="/60B99A53/6141E476" Ref="C21"  Part="1" 
+AR Path="/60B99A58/6141E476" Ref="C24"  Part="1" 
+AR Path="/60B99A5D/6141E476" Ref="C27"  Part="1" 
+AR Path="/60B99A62/6141E476" Ref="C30"  Part="1" 
+AR Path="/60B99A67/6141E476" Ref="C33"  Part="1" 
+AR Path="/60B99A6C/6141E476" Ref="C36"  Part="1" 
+F 0 "C36" V 5197 4454 60  0000 L CNN
+F 1 "CL05A105KO5NNNC" V 5303 4454 60  0000 L CNN
+F 2 "CAP_CL05_SAM" H 5250 3990 60  0001 C CNN
+F 3 "" H 5100 4350 60  0000 C CNN
+	1    5100 4350
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5100 4650 5100 4950
+$Comp
+L 04025C101KAT2A:04025C101KAT2A C2
+U 1 1 61420529
+P 2600 3150
+AR Path="/5EA98F1B/61420529" Ref="C2"  Part="1" 
+AR Path="/60B9480C/61420529" Ref="C5"  Part="1" 
+AR Path="/60B94B7E/61420529" Ref="C8"  Part="1" 
+AR Path="/60B95D06/61420529" Ref="C11"  Part="1" 
+AR Path="/60B95D0B/61420529" Ref="C14"  Part="1" 
+AR Path="/60B95D10/61420529" Ref="C17"  Part="1" 
+AR Path="/60B99A53/61420529" Ref="C20"  Part="1" 
+AR Path="/60B99A58/61420529" Ref="C23"  Part="1" 
+AR Path="/60B99A5D/61420529" Ref="C26"  Part="1" 
+AR Path="/60B99A62/61420529" Ref="C29"  Part="1" 
+AR Path="/60B99A67/61420529" Ref="C32"  Part="1" 
+AR Path="/60B99A6C/61420529" Ref="C35"  Part="1" 
+F 0 "C35" V 2697 3254 60  0000 L CNN
+F 1 "04025C101KAT2A" V 2803 3254 60  0000 L CNN
+F 2 "0402_AVX" H 2750 2790 60  0001 C CNN
+F 3 "" H 2600 3150 60  0000 C CNN
+	1    2600 3150
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2600 2750 2600 3150
+Wire Wire Line
+	2600 3450 2600 3750
+$Comp
+L CL21B474KOFNNNE:CL21B474KOFNNNE C1
+U 1 1 614228FD
+P 2000 3150
+AR Path="/5EA98F1B/614228FD" Ref="C1"  Part="1" 
+AR Path="/60B9480C/614228FD" Ref="C4"  Part="1" 
+AR Path="/60B94B7E/614228FD" Ref="C7"  Part="1" 
+AR Path="/60B95D06/614228FD" Ref="C10"  Part="1" 
+AR Path="/60B95D0B/614228FD" Ref="C13"  Part="1" 
+AR Path="/60B95D10/614228FD" Ref="C16"  Part="1" 
+AR Path="/60B99A53/614228FD" Ref="C19"  Part="1" 
+AR Path="/60B99A58/614228FD" Ref="C22"  Part="1" 
+AR Path="/60B99A5D/614228FD" Ref="C25"  Part="1" 
+AR Path="/60B99A62/614228FD" Ref="C28"  Part="1" 
+AR Path="/60B99A67/614228FD" Ref="C31"  Part="1" 
+AR Path="/60B99A6C/614228FD" Ref="C34"  Part="1" 
+F 0 "C34" V 2097 3254 60  0000 L CNN
+F 1 "CL21B474KOFNNNE" V 2203 3254 60  0000 L CNN
+F 2 "CAP_CL21_SAM" H 2150 2790 60  0001 C CNN
+F 3 "" H 2000 3150 60  0000 C CNN
+	1    2000 3150
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2000 2750 2000 3150
+Wire Wire Line
+	2000 3450 2000 3800
+$Comp
+L CR0603-FX-75R0ELF:CR0603-FX-75R0ELF R1
+U 1 1 61424F1B
+P 5100 3650
+AR Path="/5EA98F1B/61424F1B" Ref="R1"  Part="1" 
+AR Path="/60B9480C/61424F1B" Ref="R2"  Part="1" 
+AR Path="/60B94B7E/61424F1B" Ref="R3"  Part="1" 
+AR Path="/60B95D06/61424F1B" Ref="R4"  Part="1" 
+AR Path="/60B95D0B/61424F1B" Ref="R5"  Part="1" 
+AR Path="/60B95D10/61424F1B" Ref="R6"  Part="1" 
+AR Path="/60B99A53/61424F1B" Ref="R7"  Part="1" 
+AR Path="/60B99A58/61424F1B" Ref="R8"  Part="1" 
+AR Path="/60B99A5D/61424F1B" Ref="R9"  Part="1" 
+AR Path="/60B99A62/61424F1B" Ref="R10"  Part="1" 
+AR Path="/60B99A67/61424F1B" Ref="R11"  Part="1" 
+AR Path="/60B99A6C/61424F1B" Ref="R12"  Part="1" 
+F 0 "R12" V 5297 3729 60  0000 L CNN
+F 1 "CR0603-FX-75R0ELF" V 5403 3729 60  0000 L CNN
+F 2 "BO_CR0603" H 5350 3315 60  0001 C CNN
+F 3 "" H 5100 3650 60  0000 C CNN
+	1    5100 3650
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4900 3300 5100 3300
+Wire Wire Line
+	5100 3650 5100 3300
+Connection ~ 5100 3300
+Wire Wire Line
+	5100 3300 6200 3300
+Wire Wire Line
+	5100 4350 5100 4150
 $EndSCHEMATC

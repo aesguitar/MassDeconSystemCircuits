@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/Parts/LM35DZ_NOPB/footprints.pretty)(options "")(descr ""))
+  (lib (name CL31A106MAHNNNE)(type KiCad)(uri ${KIPRJMOD}/Parts/CL31A106MAHNNNE)(options "")(descr ""))
+)

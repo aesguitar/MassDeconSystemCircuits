@@ -1,3 +1,9 @@
 (sym_lib_table
   (lib (name LM35DZ/NOPB)(type Legacy)(uri "D:/Cloud Files/Personal Files/Stuff/PPE Project/Parts/LM35DZ_NOPB/2021-07-17_14-01-55.lib")(options "")(descr ""))
+  (lib (name CL31A106MAHNNNE)(type Legacy)(uri ${KIPRJMOD}/Parts/CL31A106MAHNNNE/2021-09-02_13-52-23/2021-09-02_13-52-23.lib)(options "")(descr ""))
+  (lib (name CL05A105KO5NNNC)(type Legacy)(uri ${KIPRJMOD}/Parts/CL05A105KO5NNNC/2021-09-02_14-16-00/2021-09-02_14-16-00.lib)(options "")(descr ""))
+  (lib (name 04025C101KAT2A)(type Legacy)(uri ${KIPRJMOD}/Parts/04025C101KAT2A/2021-09-02_14-28-59/2021-09-02_14-28-59.lib)(options "")(descr ""))
+  (lib (name CL21B474KOFNNNE)(type Legacy)(uri ${KIPRJMOD}/Parts/CL21B474KOFNNNE/2021-09-02_14-34-46/2021-09-02_14-34-46.lib)(options "")(descr ""))
+  (lib (name CR0603-FX-75R0ELF)(type Legacy)(uri ${KIPRJMOD}/Parts/CR0603-FX-75R0ELF/2021-09-02_14-39-02/2021-09-02_14-39-02.lib)(options "")(descr ""))
+  (lib (name GRM188R72A104KA35D)(type Legacy)(uri ${KIPRJMOD}/Parts/GRM188R72A104KA35D/2021-09-02_15-10-54/2021-09-02_15-10-54.lib)(options "")(descr ""))
 )
