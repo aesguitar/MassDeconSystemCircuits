@@ -13,29 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L Connector:Conn_01x03_Male J1
-U 1 1 60F387FB
-P 6400 3300
-AR Path="/5EA98F1B/60F387FB" Ref="J1"  Part="1" 
-AR Path="/60B9480C/60F387FB" Ref="J2"  Part="1" 
-AR Path="/60B94B7E/60F387FB" Ref="J3"  Part="1" 
-AR Path="/60B95D06/60F387FB" Ref="J4"  Part="1" 
-AR Path="/60B95D0B/60F387FB" Ref="J5"  Part="1" 
-AR Path="/60B95D10/60F387FB" Ref="J6"  Part="1" 
-AR Path="/60B99A53/60F387FB" Ref="J7"  Part="1" 
-AR Path="/60B99A58/60F387FB" Ref="J8"  Part="1" 
-AR Path="/60B99A5D/60F387FB" Ref="J9"  Part="1" 
-AR Path="/60B99A62/60F387FB" Ref="J10"  Part="1" 
-AR Path="/60B99A67/60F387FB" Ref="J11"  Part="1" 
-AR Path="/60B99A6C/60F387FB" Ref="J12"  Part="1" 
-F 0 "J12" H 6372 3324 50  0000 R CNN
-F 1 "Conn_01x03_Male" H 6372 3233 50  0000 R CNN
-F 2 "" H 6400 3300 50  0001 C CNN
-F 3 "~" H 6400 3300 50  0001 C CNN
-	1    6400 3300
-	-1   0    0    -1  
-$EndComp
 Wire Wire Line
 	6200 3200 5900 3200
 Wire Wire Line
@@ -310,4 +287,27 @@ Wire Wire Line
 	5100 3300 6200 3300
 Wire Wire Line
 	5100 4350 5100 4150
+$Comp
+L 644752-3:644752-3 J1
+U 1 1 6196DD58
+P 5550 3450
+AR Path="/5EA98F1B/6196DD58" Ref="J1"  Part="1" 
+AR Path="/60B9480C/6196DD58" Ref="J2"  Part="1" 
+AR Path="/60B94B7E/6196DD58" Ref="J3"  Part="1" 
+AR Path="/60B95D06/6196DD58" Ref="J4"  Part="1" 
+AR Path="/60B95D0B/6196DD58" Ref="J5"  Part="1" 
+AR Path="/60B95D10/6196DD58" Ref="J6"  Part="1" 
+AR Path="/60B99A53/6196DD58" Ref="J7"  Part="1" 
+AR Path="/60B99A58/6196DD58" Ref="J8"  Part="1" 
+AR Path="/60B99A5D/6196DD58" Ref="J9"  Part="1" 
+AR Path="/60B99A62/6196DD58" Ref="J10"  Part="1" 
+AR Path="/60B99A67/6196DD58" Ref="J11"  Part="1" 
+AR Path="/60B99A6C/6196DD58" Ref="J12"  Part="1" 
+F 0 "J12" H 4482 3668 60  0000 R CNN
+F 1 "644752-3" H 4482 3562 60  0000 R CNN
+F 2 "644752-3_TYC" H 4750 3790 60  0001 C CNN
+F 3 "" H 5550 3450 60  0000 C CNN
+	1    5550 3450
+	-1   0    0    -1  
+$EndComp
 $EndSCHEMATC

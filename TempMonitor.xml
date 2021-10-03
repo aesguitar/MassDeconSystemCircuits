@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits\TempMonitor.sch</source>
-    <date>9/2/2021 12:10:33 PM</date>
+    <date>10/3/2021 11:36:44 AM</date>
     <tool>Eeschema (5.1.10)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -344,13 +344,6 @@
     </sheet>
   </design>
   <components>
-    <comp ref="J1">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Sensor1/" tstamps="/5EA98F1B/"/>
-      <tstamp>60F387FB</tstamp>
-    </comp>
     <comp ref="U1">
       <value>LM35DZ_NOPB</value>
       <footprint>Z03A</footprint>
@@ -392,12 +385,12 @@
       <sheetpath names="/Sensor1/" tstamps="/5EA98F1B/"/>
       <tstamp>61424F1B</tstamp>
     </comp>
-    <comp ref="J2">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Sensor2/" tstamps="/60B9480C/"/>
-      <tstamp>60F387FB</tstamp>
+    <comp ref="J1">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Sensor1/" tstamps="/5EA98F1B/"/>
+      <tstamp>6196DD58</tstamp>
     </comp>
     <comp ref="U2">
       <value>LM35DZ_NOPB</value>
@@ -440,12 +433,12 @@
       <sheetpath names="/Sensor2/" tstamps="/60B9480C/"/>
       <tstamp>61424F1B</tstamp>
     </comp>
-    <comp ref="J3">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Sensor3/" tstamps="/60B94B7E/"/>
-      <tstamp>60F387FB</tstamp>
+    <comp ref="J2">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Sensor2/" tstamps="/60B9480C/"/>
+      <tstamp>6196DD58</tstamp>
     </comp>
     <comp ref="U3">
       <value>LM35DZ_NOPB</value>
@@ -488,12 +481,12 @@
       <sheetpath names="/Sensor3/" tstamps="/60B94B7E/"/>
       <tstamp>61424F1B</tstamp>
     </comp>
-    <comp ref="J4">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Sensor4/" tstamps="/60B95D06/"/>
-      <tstamp>60F387FB</tstamp>
+    <comp ref="J3">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Sensor3/" tstamps="/60B94B7E/"/>
+      <tstamp>6196DD58</tstamp>
     </comp>
     <comp ref="U4">
       <value>LM35DZ_NOPB</value>
@@ -536,12 +529,12 @@
       <sheetpath names="/Sensor4/" tstamps="/60B95D06/"/>
       <tstamp>61424F1B</tstamp>
     </comp>
-    <comp ref="J5">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Sensor5/" tstamps="/60B95D0B/"/>
-      <tstamp>60F387FB</tstamp>
+    <comp ref="J4">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Sensor4/" tstamps="/60B95D06/"/>
+      <tstamp>6196DD58</tstamp>
     </comp>
     <comp ref="U5">
       <value>LM35DZ_NOPB</value>
@@ -584,12 +577,12 @@
       <sheetpath names="/Sensor5/" tstamps="/60B95D0B/"/>
       <tstamp>61424F1B</tstamp>
     </comp>
-    <comp ref="J6">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Sensor6/" tstamps="/60B95D10/"/>
-      <tstamp>60F387FB</tstamp>
+    <comp ref="J5">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Sensor5/" tstamps="/60B95D0B/"/>
+      <tstamp>6196DD58</tstamp>
     </comp>
     <comp ref="U6">
       <value>LM35DZ_NOPB</value>
@@ -632,12 +625,12 @@
       <sheetpath names="/Sensor6/" tstamps="/60B95D10/"/>
       <tstamp>61424F1B</tstamp>
     </comp>
-    <comp ref="J7">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Sensor7/" tstamps="/60B99A53/"/>
-      <tstamp>60F387FB</tstamp>
+    <comp ref="J6">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Sensor6/" tstamps="/60B95D10/"/>
+      <tstamp>6196DD58</tstamp>
     </comp>
     <comp ref="U7">
       <value>LM35DZ_NOPB</value>
@@ -680,12 +673,12 @@
       <sheetpath names="/Sensor7/" tstamps="/60B99A53/"/>
       <tstamp>61424F1B</tstamp>
     </comp>
-    <comp ref="J8">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Sensor8/" tstamps="/60B99A58/"/>
-      <tstamp>60F387FB</tstamp>
+    <comp ref="J7">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Sensor7/" tstamps="/60B99A53/"/>
+      <tstamp>6196DD58</tstamp>
     </comp>
     <comp ref="U8">
       <value>LM35DZ_NOPB</value>
@@ -728,12 +721,12 @@
       <sheetpath names="/Sensor8/" tstamps="/60B99A58/"/>
       <tstamp>61424F1B</tstamp>
     </comp>
-    <comp ref="J9">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Sensor9/" tstamps="/60B99A5D/"/>
-      <tstamp>60F387FB</tstamp>
+    <comp ref="J8">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Sensor8/" tstamps="/60B99A58/"/>
+      <tstamp>6196DD58</tstamp>
     </comp>
     <comp ref="U9">
       <value>LM35DZ_NOPB</value>
@@ -776,12 +769,12 @@
       <sheetpath names="/Sensor9/" tstamps="/60B99A5D/"/>
       <tstamp>61424F1B</tstamp>
     </comp>
-    <comp ref="J10">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Sensor10/" tstamps="/60B99A62/"/>
-      <tstamp>60F387FB</tstamp>
+    <comp ref="J9">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Sensor9/" tstamps="/60B99A5D/"/>
+      <tstamp>6196DD58</tstamp>
     </comp>
     <comp ref="U10">
       <value>LM35DZ_NOPB</value>
@@ -824,12 +817,12 @@
       <sheetpath names="/Sensor10/" tstamps="/60B99A62/"/>
       <tstamp>61424F1B</tstamp>
     </comp>
-    <comp ref="J11">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Sensor11/" tstamps="/60B99A67/"/>
-      <tstamp>60F387FB</tstamp>
+    <comp ref="J10">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Sensor10/" tstamps="/60B99A62/"/>
+      <tstamp>6196DD58</tstamp>
     </comp>
     <comp ref="U11">
       <value>LM35DZ_NOPB</value>
@@ -872,12 +865,12 @@
       <sheetpath names="/Sensor11/" tstamps="/60B99A67/"/>
       <tstamp>61424F1B</tstamp>
     </comp>
-    <comp ref="J12">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Sensor12/" tstamps="/60B99A6C/"/>
-      <tstamp>60F387FB</tstamp>
+    <comp ref="J11">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Sensor11/" tstamps="/60B99A67/"/>
+      <tstamp>6196DD58</tstamp>
     </comp>
     <comp ref="U12">
       <value>LM35DZ_NOPB</value>
@@ -920,12 +913,12 @@
       <sheetpath names="/Sensor12/" tstamps="/60B99A6C/"/>
       <tstamp>61424F1B</tstamp>
     </comp>
-    <comp ref="J13">
-      <value>Barrel_Jack</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>5EF92B95</tstamp>
+    <comp ref="J12">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Sensor12/" tstamps="/60B99A6C/"/>
+      <tstamp>6196DD58</tstamp>
     </comp>
     <comp ref="U13">
       <value>TPS62140A</value>
@@ -1021,104 +1014,6 @@
       <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
       <tstamp>5F2234FF</tstamp>
     </comp>
-    <comp ref="J14">
-      <value>USB_A</value>
-      <datasheet> ~</datasheet>
-      <libsource lib="Connector" part="USB_A" description="USB Type A connector"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>5F367334</tstamp>
-    </comp>
-    <comp ref="J15">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>610C7C07</tstamp>
-    </comp>
-    <comp ref="J16">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>611497D6</tstamp>
-    </comp>
-    <comp ref="J17">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>6115AA8A</tstamp>
-    </comp>
-    <comp ref="J18">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>6115AAA5</tstamp>
-    </comp>
-    <comp ref="J19">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>6116E657</tstamp>
-    </comp>
-    <comp ref="J20">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>6116E672</tstamp>
-    </comp>
-    <comp ref="J21">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>6116E68D</tstamp>
-    </comp>
-    <comp ref="J23">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>6116E6A8</tstamp>
-    </comp>
-    <comp ref="J24">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>6117F518</tstamp>
-    </comp>
-    <comp ref="J25">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>6117F533</tstamp>
-    </comp>
-    <comp ref="J26">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>6117F54E</tstamp>
-    </comp>
-    <comp ref="J27">
-      <value>Conn_01x03_Male</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>6117F569</tstamp>
-    </comp>
-    <comp ref="J22">
-      <value>Conn_01x12_Female</value>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x12_Female" description="Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
-      <tstamp>5F3C3D4D</tstamp>
-    </comp>
     <comp ref="C37">
       <value>CL31A106MAHNNNE</value>
       <footprint>CAP_CL31_SAM</footprint>
@@ -1133,38 +1028,110 @@
       <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
       <tstamp>613B1EEC</tstamp>
     </comp>
-    <comp ref="C41">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
-      <tstamp>6105589C</tstamp>
+    <comp ref="J15">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>6168E7EB</tstamp>
     </comp>
-    <comp ref="D1">
-      <value>BAV99</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
-      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
-      <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
-      <tstamp>6105782E</tstamp>
+    <comp ref="J16">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>6172E49E</tstamp>
     </comp>
-    <comp ref="FB1">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
-      <tstamp>6105926E</tstamp>
+    <comp ref="J17">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>6176259F</tstamp>
     </comp>
-    <comp ref="C43">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
-      <tstamp>6105CCBA</tstamp>
+    <comp ref="J18">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>617967CE</tstamp>
+    </comp>
+    <comp ref="J19">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>617CAA4B</tstamp>
+    </comp>
+    <comp ref="J20">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>617FE9A8</tstamp>
+    </comp>
+    <comp ref="J21">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>618328B4</tstamp>
+    </comp>
+    <comp ref="J23">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>618666EB</tstamp>
+    </comp>
+    <comp ref="J24">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>6189A5F7</tstamp>
+    </comp>
+    <comp ref="J25">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>618CE834</tstamp>
+    </comp>
+    <comp ref="J26">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>619030A1</tstamp>
+    </comp>
+    <comp ref="J27">
+      <value>644752-3</value>
+      <footprint>644752-3_TYC</footprint>
+      <libsource lib="644752-3" part="644752-3" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>61937138</tstamp>
+    </comp>
+    <comp ref="J14">
+      <value>PJ-102A</value>
+      <footprint>PJ-102A_CUD</footprint>
+      <libsource lib="PJ-102A" part="PJ-102A" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>61B13BA0</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value>SS-52100-001</value>
+      <footprint>CONN15_2100-001_STW</footprint>
+      <libsource lib="SS-52100-001" part="SS-52100-001" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>61BEA2FE</tstamp>
+    </comp>
+    <comp ref="J22">
+      <value>PPTC121LFBN-RC</value>
+      <footprint>Conn12_1p2x0p1_SUL</footprint>
+      <libsource lib="PPTC121LFBN-RC" part="PPTC121LFBN-RC" description=""/>
+      <sheetpath names="/Main Board/" tstamps="/5EA9E703/"/>
+      <tstamp>61D62AE1</tstamp>
     </comp>
     <comp ref="IC1">
       <value>INA152EA_2K5</value>
@@ -1182,70 +1149,61 @@
       <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
       <tstamp>6105D296</tstamp>
     </comp>
-    <comp ref="R16">
-      <value>18.2k 1%</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="R" description="Resistor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
-      <tstamp>6105F98F</tstamp>
-    </comp>
-    <comp ref="FB2">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
-      <tstamp>61076E21</tstamp>
-    </comp>
-    <comp ref="C42">
+    <comp ref="C43">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
       <tstamp>61427AE0</tstamp>
     </comp>
-    <comp ref="C40">
+    <comp ref="C41">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
       <tstamp>61428429</tstamp>
     </comp>
-    <comp ref="C45">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
-      <tstamp>6105589C</tstamp>
+    <comp ref="C40">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
+      <tstamp>615D4019</tstamp>
     </comp>
-    <comp ref="D2">
-      <value>BAV99</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
-      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
-      <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
-      <tstamp>6105782E</tstamp>
+    <comp ref="C42">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
+      <tstamp>615D4E43</tstamp>
     </comp>
-    <comp ref="FB3">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
-      <tstamp>6105926E</tstamp>
+    <comp ref="R16">
+      <value>RMCF0805ZT0R00</value>
+      <footprint>STA_RMCF0805_STP</footprint>
+      <libsource lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
+      <tstamp>615DC1E7</tstamp>
     </comp>
-    <comp ref="C47">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
-      <tstamp>6105CCBA</tstamp>
+    <comp ref="L2">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
+      <tstamp>615DD3D4</tstamp>
+    </comp>
+    <comp ref="L3">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
+      <tstamp>615DEC9F</tstamp>
+    </comp>
+    <comp ref="CR1">
+      <value>BAV99_215</value>
+      <footprint>DIODE_SOT23_BAV99_3X1P4_NEX</footprint>
+      <libsource lib="BAV99,215" part="BAV99_215" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner1/" tstamps="/5EA9E703/61050685/"/>
+      <tstamp>615E4669</tstamp>
     </comp>
     <comp ref="IC2">
       <value>INA152EA_2K5</value>
@@ -1263,70 +1221,61 @@
       <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
       <tstamp>6105D296</tstamp>
     </comp>
-    <comp ref="R17">
-      <value>18.2k 1%</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="R" description="Resistor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
-      <tstamp>6105F98F</tstamp>
-    </comp>
-    <comp ref="FB4">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
-      <tstamp>61076E21</tstamp>
-    </comp>
-    <comp ref="C46">
+    <comp ref="C47">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
       <tstamp>61427AE0</tstamp>
     </comp>
-    <comp ref="C44">
+    <comp ref="C45">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
       <tstamp>61428429</tstamp>
     </comp>
-    <comp ref="C49">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
-      <tstamp>6105589C</tstamp>
+    <comp ref="C44">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
+      <tstamp>615D4019</tstamp>
     </comp>
-    <comp ref="D3">
-      <value>BAV99</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
-      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
-      <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
-      <tstamp>6105782E</tstamp>
+    <comp ref="C46">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
+      <tstamp>615D4E43</tstamp>
     </comp>
-    <comp ref="FB5">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
-      <tstamp>6105926E</tstamp>
+    <comp ref="R17">
+      <value>RMCF0805ZT0R00</value>
+      <footprint>STA_RMCF0805_STP</footprint>
+      <libsource lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
+      <tstamp>615DC1E7</tstamp>
     </comp>
-    <comp ref="C51">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
-      <tstamp>6105CCBA</tstamp>
+    <comp ref="L4">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
+      <tstamp>615DD3D4</tstamp>
+    </comp>
+    <comp ref="L5">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
+      <tstamp>615DEC9F</tstamp>
+    </comp>
+    <comp ref="CR2">
+      <value>BAV99_215</value>
+      <footprint>DIODE_SOT23_BAV99_3X1P4_NEX</footprint>
+      <libsource lib="BAV99,215" part="BAV99_215" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner2/" tstamps="/5EA9E703/611497D0/"/>
+      <tstamp>615E4669</tstamp>
     </comp>
     <comp ref="IC3">
       <value>INA152EA_2K5</value>
@@ -1344,70 +1293,61 @@
       <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
       <tstamp>6105D296</tstamp>
     </comp>
-    <comp ref="R18">
-      <value>18.2k 1%</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="R" description="Resistor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
-      <tstamp>6105F98F</tstamp>
-    </comp>
-    <comp ref="FB6">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
-      <tstamp>61076E21</tstamp>
-    </comp>
-    <comp ref="C50">
+    <comp ref="C51">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
       <tstamp>61427AE0</tstamp>
     </comp>
-    <comp ref="C48">
+    <comp ref="C49">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
       <tstamp>61428429</tstamp>
     </comp>
-    <comp ref="C53">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
-      <tstamp>6105589C</tstamp>
+    <comp ref="C48">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
+      <tstamp>615D4019</tstamp>
     </comp>
-    <comp ref="D4">
-      <value>BAV99</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
-      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
-      <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
-      <tstamp>6105782E</tstamp>
+    <comp ref="C50">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
+      <tstamp>615D4E43</tstamp>
     </comp>
-    <comp ref="FB7">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
-      <tstamp>6105926E</tstamp>
+    <comp ref="R18">
+      <value>RMCF0805ZT0R00</value>
+      <footprint>STA_RMCF0805_STP</footprint>
+      <libsource lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
+      <tstamp>615DC1E7</tstamp>
     </comp>
-    <comp ref="C55">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
-      <tstamp>6105CCBA</tstamp>
+    <comp ref="L6">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
+      <tstamp>615DD3D4</tstamp>
+    </comp>
+    <comp ref="L7">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
+      <tstamp>615DEC9F</tstamp>
+    </comp>
+    <comp ref="CR3">
+      <value>BAV99_215</value>
+      <footprint>DIODE_SOT23_BAV99_3X1P4_NEX</footprint>
+      <libsource lib="BAV99,215" part="BAV99_215" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner3/" tstamps="/5EA9E703/6115AA84/"/>
+      <tstamp>615E4669</tstamp>
     </comp>
     <comp ref="IC4">
       <value>INA152EA_2K5</value>
@@ -1425,70 +1365,61 @@
       <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
       <tstamp>6105D296</tstamp>
     </comp>
-    <comp ref="R19">
-      <value>18.2k 1%</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="R" description="Resistor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
-      <tstamp>6105F98F</tstamp>
-    </comp>
-    <comp ref="FB8">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
-      <tstamp>61076E21</tstamp>
-    </comp>
-    <comp ref="C54">
+    <comp ref="C55">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
       <tstamp>61427AE0</tstamp>
     </comp>
-    <comp ref="C52">
+    <comp ref="C53">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
       <tstamp>61428429</tstamp>
     </comp>
-    <comp ref="C57">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
-      <tstamp>6105589C</tstamp>
+    <comp ref="C52">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
+      <tstamp>615D4019</tstamp>
     </comp>
-    <comp ref="D5">
-      <value>BAV99</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
-      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
-      <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
-      <tstamp>6105782E</tstamp>
+    <comp ref="C54">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
+      <tstamp>615D4E43</tstamp>
     </comp>
-    <comp ref="FB9">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
-      <tstamp>6105926E</tstamp>
+    <comp ref="R19">
+      <value>RMCF0805ZT0R00</value>
+      <footprint>STA_RMCF0805_STP</footprint>
+      <libsource lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
+      <tstamp>615DC1E7</tstamp>
     </comp>
-    <comp ref="C59">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
-      <tstamp>6105CCBA</tstamp>
+    <comp ref="L8">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
+      <tstamp>615DD3D4</tstamp>
+    </comp>
+    <comp ref="L9">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
+      <tstamp>615DEC9F</tstamp>
+    </comp>
+    <comp ref="CR4">
+      <value>BAV99_215</value>
+      <footprint>DIODE_SOT23_BAV99_3X1P4_NEX</footprint>
+      <libsource lib="BAV99,215" part="BAV99_215" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner4/" tstamps="/5EA9E703/6115AA9F/"/>
+      <tstamp>615E4669</tstamp>
     </comp>
     <comp ref="IC5">
       <value>INA152EA_2K5</value>
@@ -1506,70 +1437,61 @@
       <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
       <tstamp>6105D296</tstamp>
     </comp>
-    <comp ref="R20">
-      <value>18.2k 1%</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="R" description="Resistor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
-      <tstamp>6105F98F</tstamp>
-    </comp>
-    <comp ref="FB10">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
-      <tstamp>61076E21</tstamp>
-    </comp>
-    <comp ref="C58">
+    <comp ref="C59">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
       <tstamp>61427AE0</tstamp>
     </comp>
-    <comp ref="C56">
+    <comp ref="C57">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
       <tstamp>61428429</tstamp>
     </comp>
-    <comp ref="C61">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
-      <tstamp>6105589C</tstamp>
+    <comp ref="C56">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
+      <tstamp>615D4019</tstamp>
     </comp>
-    <comp ref="D6">
-      <value>BAV99</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
-      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
-      <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
-      <tstamp>6105782E</tstamp>
+    <comp ref="C58">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
+      <tstamp>615D4E43</tstamp>
     </comp>
-    <comp ref="FB11">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
-      <tstamp>6105926E</tstamp>
+    <comp ref="R20">
+      <value>RMCF0805ZT0R00</value>
+      <footprint>STA_RMCF0805_STP</footprint>
+      <libsource lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
+      <tstamp>615DC1E7</tstamp>
     </comp>
-    <comp ref="C63">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
-      <tstamp>6105CCBA</tstamp>
+    <comp ref="L10">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
+      <tstamp>615DD3D4</tstamp>
+    </comp>
+    <comp ref="L11">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
+      <tstamp>615DEC9F</tstamp>
+    </comp>
+    <comp ref="CR5">
+      <value>BAV99_215</value>
+      <footprint>DIODE_SOT23_BAV99_3X1P4_NEX</footprint>
+      <libsource lib="BAV99,215" part="BAV99_215" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner5/" tstamps="/5EA9E703/6116E651/"/>
+      <tstamp>615E4669</tstamp>
     </comp>
     <comp ref="IC6">
       <value>INA152EA_2K5</value>
@@ -1587,70 +1509,61 @@
       <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
       <tstamp>6105D296</tstamp>
     </comp>
-    <comp ref="R21">
-      <value>18.2k 1%</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="R" description="Resistor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
-      <tstamp>6105F98F</tstamp>
-    </comp>
-    <comp ref="FB12">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
-      <tstamp>61076E21</tstamp>
-    </comp>
-    <comp ref="C62">
+    <comp ref="C63">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
       <tstamp>61427AE0</tstamp>
     </comp>
-    <comp ref="C60">
+    <comp ref="C61">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
       <tstamp>61428429</tstamp>
     </comp>
-    <comp ref="C65">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
-      <tstamp>6105589C</tstamp>
+    <comp ref="C60">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
+      <tstamp>615D4019</tstamp>
     </comp>
-    <comp ref="D7">
-      <value>BAV99</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
-      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
-      <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
-      <tstamp>6105782E</tstamp>
+    <comp ref="C62">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
+      <tstamp>615D4E43</tstamp>
     </comp>
-    <comp ref="FB13">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
-      <tstamp>6105926E</tstamp>
+    <comp ref="R21">
+      <value>RMCF0805ZT0R00</value>
+      <footprint>STA_RMCF0805_STP</footprint>
+      <libsource lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
+      <tstamp>615DC1E7</tstamp>
     </comp>
-    <comp ref="C67">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
-      <tstamp>6105CCBA</tstamp>
+    <comp ref="L12">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
+      <tstamp>615DD3D4</tstamp>
+    </comp>
+    <comp ref="L13">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
+      <tstamp>615DEC9F</tstamp>
+    </comp>
+    <comp ref="CR6">
+      <value>BAV99_215</value>
+      <footprint>DIODE_SOT23_BAV99_3X1P4_NEX</footprint>
+      <libsource lib="BAV99,215" part="BAV99_215" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner6/" tstamps="/5EA9E703/6116E66C/"/>
+      <tstamp>615E4669</tstamp>
     </comp>
     <comp ref="IC7">
       <value>INA152EA_2K5</value>
@@ -1668,70 +1581,61 @@
       <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
       <tstamp>6105D296</tstamp>
     </comp>
-    <comp ref="R22">
-      <value>18.2k 1%</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="R" description="Resistor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
-      <tstamp>6105F98F</tstamp>
-    </comp>
-    <comp ref="FB14">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
-      <tstamp>61076E21</tstamp>
-    </comp>
-    <comp ref="C66">
+    <comp ref="C67">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
       <tstamp>61427AE0</tstamp>
     </comp>
-    <comp ref="C64">
+    <comp ref="C65">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
       <tstamp>61428429</tstamp>
     </comp>
-    <comp ref="C69">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
-      <tstamp>6105589C</tstamp>
+    <comp ref="C64">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
+      <tstamp>615D4019</tstamp>
     </comp>
-    <comp ref="D8">
-      <value>BAV99</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
-      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
-      <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
-      <tstamp>6105782E</tstamp>
+    <comp ref="C66">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
+      <tstamp>615D4E43</tstamp>
     </comp>
-    <comp ref="FB15">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
-      <tstamp>6105926E</tstamp>
+    <comp ref="R22">
+      <value>RMCF0805ZT0R00</value>
+      <footprint>STA_RMCF0805_STP</footprint>
+      <libsource lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
+      <tstamp>615DC1E7</tstamp>
     </comp>
-    <comp ref="C71">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
-      <tstamp>6105CCBA</tstamp>
+    <comp ref="L14">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
+      <tstamp>615DD3D4</tstamp>
+    </comp>
+    <comp ref="L15">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
+      <tstamp>615DEC9F</tstamp>
+    </comp>
+    <comp ref="CR7">
+      <value>BAV99_215</value>
+      <footprint>DIODE_SOT23_BAV99_3X1P4_NEX</footprint>
+      <libsource lib="BAV99,215" part="BAV99_215" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner7/" tstamps="/5EA9E703/6116E687/"/>
+      <tstamp>615E4669</tstamp>
     </comp>
     <comp ref="IC8">
       <value>INA152EA_2K5</value>
@@ -1749,70 +1653,61 @@
       <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
       <tstamp>6105D296</tstamp>
     </comp>
-    <comp ref="R23">
-      <value>18.2k 1%</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="R" description="Resistor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
-      <tstamp>6105F98F</tstamp>
-    </comp>
-    <comp ref="FB16">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
-      <tstamp>61076E21</tstamp>
-    </comp>
-    <comp ref="C70">
+    <comp ref="C71">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
       <tstamp>61427AE0</tstamp>
     </comp>
-    <comp ref="C68">
+    <comp ref="C69">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
       <tstamp>61428429</tstamp>
     </comp>
-    <comp ref="C73">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
-      <tstamp>6105589C</tstamp>
+    <comp ref="C68">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
+      <tstamp>615D4019</tstamp>
     </comp>
-    <comp ref="D9">
-      <value>BAV99</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
-      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
-      <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
-      <tstamp>6105782E</tstamp>
+    <comp ref="C70">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
+      <tstamp>615D4E43</tstamp>
     </comp>
-    <comp ref="FB17">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
-      <tstamp>6105926E</tstamp>
+    <comp ref="R23">
+      <value>RMCF0805ZT0R00</value>
+      <footprint>STA_RMCF0805_STP</footprint>
+      <libsource lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
+      <tstamp>615DC1E7</tstamp>
     </comp>
-    <comp ref="C75">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
-      <tstamp>6105CCBA</tstamp>
+    <comp ref="L16">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
+      <tstamp>615DD3D4</tstamp>
+    </comp>
+    <comp ref="L17">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
+      <tstamp>615DEC9F</tstamp>
+    </comp>
+    <comp ref="CR8">
+      <value>BAV99_215</value>
+      <footprint>DIODE_SOT23_BAV99_3X1P4_NEX</footprint>
+      <libsource lib="BAV99,215" part="BAV99_215" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner8/" tstamps="/5EA9E703/6116E6A2/"/>
+      <tstamp>615E4669</tstamp>
     </comp>
     <comp ref="IC9">
       <value>INA152EA_2K5</value>
@@ -1830,70 +1725,61 @@
       <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
       <tstamp>6105D296</tstamp>
     </comp>
-    <comp ref="R24">
-      <value>18.2k 1%</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="R" description="Resistor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
-      <tstamp>6105F98F</tstamp>
-    </comp>
-    <comp ref="FB18">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
-      <tstamp>61076E21</tstamp>
-    </comp>
-    <comp ref="C74">
+    <comp ref="C75">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
       <tstamp>61427AE0</tstamp>
     </comp>
-    <comp ref="C72">
+    <comp ref="C73">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
       <tstamp>61428429</tstamp>
     </comp>
-    <comp ref="C77">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
-      <tstamp>6105589C</tstamp>
+    <comp ref="C72">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
+      <tstamp>615D4019</tstamp>
     </comp>
-    <comp ref="D10">
-      <value>BAV99</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
-      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
-      <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
-      <tstamp>6105782E</tstamp>
+    <comp ref="C74">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
+      <tstamp>615D4E43</tstamp>
     </comp>
-    <comp ref="FB19">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
-      <tstamp>6105926E</tstamp>
+    <comp ref="R24">
+      <value>RMCF0805ZT0R00</value>
+      <footprint>STA_RMCF0805_STP</footprint>
+      <libsource lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
+      <tstamp>615DC1E7</tstamp>
     </comp>
-    <comp ref="C79">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
-      <tstamp>6105CCBA</tstamp>
+    <comp ref="L18">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
+      <tstamp>615DD3D4</tstamp>
+    </comp>
+    <comp ref="L19">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
+      <tstamp>615DEC9F</tstamp>
+    </comp>
+    <comp ref="CR9">
+      <value>BAV99_215</value>
+      <footprint>DIODE_SOT23_BAV99_3X1P4_NEX</footprint>
+      <libsource lib="BAV99,215" part="BAV99_215" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner9/" tstamps="/5EA9E703/6117F512/"/>
+      <tstamp>615E4669</tstamp>
     </comp>
     <comp ref="IC10">
       <value>INA152EA_2K5</value>
@@ -1911,70 +1797,61 @@
       <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
       <tstamp>6105D296</tstamp>
     </comp>
-    <comp ref="R25">
-      <value>18.2k 1%</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="R" description="Resistor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
-      <tstamp>6105F98F</tstamp>
-    </comp>
-    <comp ref="FB20">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
-      <tstamp>61076E21</tstamp>
-    </comp>
-    <comp ref="C78">
+    <comp ref="C79">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
       <tstamp>61427AE0</tstamp>
     </comp>
-    <comp ref="C76">
+    <comp ref="C77">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
       <tstamp>61428429</tstamp>
     </comp>
-    <comp ref="C81">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
-      <tstamp>6105589C</tstamp>
+    <comp ref="C76">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
+      <tstamp>615D4019</tstamp>
     </comp>
-    <comp ref="D11">
-      <value>BAV99</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
-      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
-      <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
-      <tstamp>6105782E</tstamp>
+    <comp ref="C78">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
+      <tstamp>615D4E43</tstamp>
     </comp>
-    <comp ref="FB21">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
-      <tstamp>6105926E</tstamp>
+    <comp ref="R25">
+      <value>RMCF0805ZT0R00</value>
+      <footprint>STA_RMCF0805_STP</footprint>
+      <libsource lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
+      <tstamp>615DC1E7</tstamp>
     </comp>
-    <comp ref="C83">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
-      <tstamp>6105CCBA</tstamp>
+    <comp ref="L20">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
+      <tstamp>615DD3D4</tstamp>
+    </comp>
+    <comp ref="L21">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
+      <tstamp>615DEC9F</tstamp>
+    </comp>
+    <comp ref="CR10">
+      <value>BAV99_215</value>
+      <footprint>DIODE_SOT23_BAV99_3X1P4_NEX</footprint>
+      <libsource lib="BAV99,215" part="BAV99_215" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner10/" tstamps="/5EA9E703/6117F52D/"/>
+      <tstamp>615E4669</tstamp>
     </comp>
     <comp ref="IC11">
       <value>INA152EA_2K5</value>
@@ -1992,70 +1869,61 @@
       <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
       <tstamp>6105D296</tstamp>
     </comp>
-    <comp ref="R26">
-      <value>18.2k 1%</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="R" description="Resistor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
-      <tstamp>6105F98F</tstamp>
-    </comp>
-    <comp ref="FB22">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
-      <tstamp>61076E21</tstamp>
-    </comp>
-    <comp ref="C82">
+    <comp ref="C83">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
       <tstamp>61427AE0</tstamp>
     </comp>
-    <comp ref="C80">
+    <comp ref="C81">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
       <tstamp>61428429</tstamp>
     </comp>
-    <comp ref="C85">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
-      <tstamp>6105589C</tstamp>
+    <comp ref="C80">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
+      <tstamp>615D4019</tstamp>
     </comp>
-    <comp ref="D12">
-      <value>BAV99</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
-      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
-      <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
-      <tstamp>6105782E</tstamp>
+    <comp ref="C82">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
+      <tstamp>615D4E43</tstamp>
     </comp>
-    <comp ref="FB23">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
-      <tstamp>6105926E</tstamp>
+    <comp ref="R26">
+      <value>RMCF0805ZT0R00</value>
+      <footprint>STA_RMCF0805_STP</footprint>
+      <libsource lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
+      <tstamp>615DC1E7</tstamp>
     </comp>
-    <comp ref="C87">
-      <value>100 pF</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
-      <tstamp>6105CCBA</tstamp>
+    <comp ref="L22">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
+      <tstamp>615DD3D4</tstamp>
+    </comp>
+    <comp ref="L23">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
+      <tstamp>615DEC9F</tstamp>
+    </comp>
+    <comp ref="CR11">
+      <value>BAV99_215</value>
+      <footprint>DIODE_SOT23_BAV99_3X1P4_NEX</footprint>
+      <libsource lib="BAV99,215" part="BAV99_215" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner11/" tstamps="/5EA9E703/6117F548/"/>
+      <tstamp>615E4669</tstamp>
     </comp>
     <comp ref="IC12">
       <value>INA152EA_2K5</value>
@@ -2073,37 +1941,61 @@
       <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
       <tstamp>6105D296</tstamp>
     </comp>
-    <comp ref="R27">
-      <value>18.2k 1%</value>
-      <datasheet>~</datasheet>
-      <libsource lib="pspice" part="R" description="Resistor symbol for simulation only"/>
-      <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
-      <tstamp>6105F98F</tstamp>
-    </comp>
-    <comp ref="FB24">
-      <value>Ferrite_Bead</value>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="100MHz Res">600 Ohm</field>
-        <field name="I_dc">1.3 A</field>
-      </fields>
-      <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
-      <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
-      <tstamp>61076E21</tstamp>
-    </comp>
-    <comp ref="C86">
+    <comp ref="C87">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
       <tstamp>61427AE0</tstamp>
     </comp>
-    <comp ref="C84">
+    <comp ref="C85">
       <value>GRM188R72A104KA35D</value>
       <footprint>G-188_MUR</footprint>
       <libsource lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D" description=""/>
       <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
       <tstamp>61428429</tstamp>
+    </comp>
+    <comp ref="C84">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
+      <tstamp>615D4019</tstamp>
+    </comp>
+    <comp ref="C86">
+      <value>CL05C101JB5NNNC</value>
+      <footprint>CAP_CL05_SAM</footprint>
+      <libsource lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
+      <tstamp>615D4E43</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>RMCF0805ZT0R00</value>
+      <footprint>STA_RMCF0805_STP</footprint>
+      <libsource lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
+      <tstamp>615DC1E7</tstamp>
+    </comp>
+    <comp ref="L24">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
+      <tstamp>615DD3D4</tstamp>
+    </comp>
+    <comp ref="L25">
+      <value>MH3261-601Y</value>
+      <footprint>IND_BOURNS_MH3261</footprint>
+      <libsource lib="MH3261-601Y" part="MH3261-601Y" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
+      <tstamp>615DEC9F</tstamp>
+    </comp>
+    <comp ref="CR12">
+      <value>BAV99_215</value>
+      <footprint>DIODE_SOT23_BAV99_3X1P4_NEX</footprint>
+      <libsource lib="BAV99,215" part="BAV99_215" description=""/>
+      <sheetpath names="/Main Board/SignalConditioner12/" tstamps="/5EA9E703/6117F563/"/>
+      <tstamp>615E4669</tstamp>
     </comp>
   </components>
   <libparts>
@@ -2123,6 +2015,38 @@
         <pin num="2" name="~" type="unspc"/>
       </pins>
     </libpart>
+    <libpart lib="644752-3" part="644752-3">
+      <footprints>
+        <fp>644752-3_TYC</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">644752-3</field>
+        <field name="Footprint">644752-3_TYC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BAV99,215" part="BAV99_215">
+      <footprints>
+        <fp>DIODE_SOT23_BAV99_3X1P4_NEX</fp>
+        <fp>DIODE_SOT23_BAV99_3X1P4_NEX-M</fp>
+        <fp>DIODE_SOT23_BAV99_3X1P4_NEX-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CR</field>
+        <field name="Value">BAV99_215</field>
+        <field name="Footprint">DIODE_SOT23_BAV99_3X1P4_NEX</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="CL05A105KO5NNNC" part="CL05A105KO5NNNC">
       <footprints>
         <fp>CAP_CL05_SAM</fp>
@@ -2132,6 +2056,22 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">CL05A105KO5NNNC</field>
+        <field name="Footprint">CAP_CL05_SAM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="CL05C101JB5NNNC" part="CL05C101JB5NNNC">
+      <footprints>
+        <fp>CAP_CL05_SAM</fp>
+        <fp>CAP_CL05_SAM-M</fp>
+        <fp>CAP_CL05_SAM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CL05C101JB5NNNC</field>
         <field name="Footprint">CAP_CL05_SAM</field>
       </fields>
       <pins>
@@ -2187,117 +2127,6 @@
         <pin num="2" name="2" type="unspc"/>
       </pins>
     </libpart>
-    <libpart lib="Connector" part="Barrel_Jack">
-      <aliases>
-        <alias>Jack-DC</alias>
-      </aliases>
-      <description>DC Barrel Jack</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>BarrelJack*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">Barrel_Jack</field>
-      </fields>
-      <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Connector" part="Conn_01x03_Male">
-      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>Connector*:*_1x??_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">Conn_01x03_Male</field>
-      </fields>
-      <pins>
-        <pin num="1" name="Pin_1" type="passive"/>
-        <pin num="2" name="Pin_2" type="passive"/>
-        <pin num="3" name="Pin_3" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Connector" part="Conn_01x12_Female">
-      <description>Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>Connector*:*_1x??_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">Conn_01x12_Female</field>
-      </fields>
-      <pins>
-        <pin num="1" name="Pin_1" type="passive"/>
-        <pin num="2" name="Pin_2" type="passive"/>
-        <pin num="3" name="Pin_3" type="passive"/>
-        <pin num="4" name="Pin_4" type="passive"/>
-        <pin num="5" name="Pin_5" type="passive"/>
-        <pin num="6" name="Pin_6" type="passive"/>
-        <pin num="7" name="Pin_7" type="passive"/>
-        <pin num="8" name="Pin_8" type="passive"/>
-        <pin num="9" name="Pin_9" type="passive"/>
-        <pin num="10" name="Pin_10" type="passive"/>
-        <pin num="11" name="Pin_11" type="passive"/>
-        <pin num="12" name="Pin_12" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Connector" part="USB_A">
-      <description>USB Type A connector</description>
-      <docs> ~</docs>
-      <footprints>
-        <fp>USB*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">USB_A</field>
-      </fields>
-      <pins>
-        <pin num="1" name="VBUS" type="power_in"/>
-        <pin num="2" name="D-" type="BiDi"/>
-        <pin num="3" name="D+" type="BiDi"/>
-        <pin num="4" name="GND" type="power_in"/>
-        <pin num="5" name="Shield" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="Ferrite_Bead">
-      <description>Ferrite bead</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>Inductor_*</fp>
-        <fp>L_*</fp>
-        <fp>*Ferrite*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">FB</field>
-        <field name="Value">Ferrite_Bead</field>
-      </fields>
-      <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Diode" part="BAV99">
-      <description>BAV99 High-speed switching diodes, SOT-23</description>
-      <docs>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</docs>
-      <footprints>
-        <fp>SOT?23*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">D</field>
-        <field name="Value">BAV99</field>
-        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
-      </fields>
-      <pins>
-        <pin num="1" name="K" type="passive"/>
-        <pin num="2" name="A" type="passive"/>
-        <pin num="3" name="K" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="GRM188R72A104KA35D" part="GRM188R72A104KA35D">
       <footprints>
         <fp>G-188_MUR</fp>
@@ -2331,6 +2160,77 @@
         <pin num="1" name="VS+" type="input"/>
         <pin num="2" name="VOUT" type="output"/>
         <pin num="3" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MH3261-601Y" part="MH3261-601Y">
+      <footprints>
+        <fp>IND_BOURNS_MH3261</fp>
+        <fp>IND_BOURNS_MH3261-M</fp>
+        <fp>IND_BOURNS_MH3261-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">MH3261-601Y</field>
+        <field name="Footprint">IND_BOURNS_MH3261</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="PJ-102A" part="PJ-102A">
+      <footprints>
+        <fp>PJ-102A_CUD</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">PJ-102A</field>
+        <field name="Footprint">PJ-102A_CUD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+        <pin num="3" name="3" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="PPTC121LFBN-RC" part="PPTC121LFBN-RC">
+      <footprints>
+        <fp>Conn12_1p2x0p1_SUL</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">PPTC121LFBN-RC</field>
+        <field name="Footprint">Conn12_1p2x0p1_SUL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+        <pin num="3" name="3" type="unspc"/>
+        <pin num="4" name="4" type="unspc"/>
+        <pin num="5" name="5" type="unspc"/>
+        <pin num="6" name="6" type="unspc"/>
+        <pin num="7" name="7" type="unspc"/>
+        <pin num="8" name="8" type="unspc"/>
+        <pin num="9" name="9" type="unspc"/>
+        <pin num="10" name="10" type="unspc"/>
+        <pin num="11" name="11" type="unspc"/>
+        <pin num="12" name="12" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="RMCF0805ZT0R00" part="RMCF0805ZT0R00">
+      <footprints>
+        <fp>STA_RMCF0805_STP</fp>
+        <fp>STA_RMCF0805_STP-M</fp>
+        <fp>STA_RMCF0805_STP-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RMCF0805ZT0R00</field>
+        <field name="Footprint">STA_RMCF0805_STP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
       </pins>
     </libpart>
     <libpart lib="Regulator_Switching" part="TPS62130">
@@ -2378,6 +2278,22 @@
         <pin num="15" name="PGND" type="power_in"/>
         <pin num="16" name="PGND" type="passive"/>
         <pin num="17" name="EP" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS-52100-001" part="SS-52100-001">
+      <footprints>
+        <fp>CONN15_2100-001_STW</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SS-52100-001</field>
+        <field name="Footprint">CONN15_2100-001_STW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+        <pin num="3" name="3" type="unspc"/>
+        <pin num="4" name="4" type="unspc"/>
       </pins>
     </libpart>
     <libpart lib="SamacSys_Parts" part="CGA2B2X7R1H681K050BA">
@@ -2512,40 +2428,22 @@
         <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="pspice" part="CAP">
-      <aliases>
-        <alias>C</alias>
-      </aliases>
-      <description>Capacitor symbol for simulation only</description>
-      <docs>~</docs>
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">CAP</field>
-      </fields>
-      <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="pspice" part="R">
-      <description>Resistor symbol for simulation only</description>
-      <docs>~</docs>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R</field>
-      </fields>
-      <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
-      </pins>
-    </libpart>
   </libparts>
   <libraries>
     <library logical="04025C101KAT2A">
       <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/04025C101KAT2A/2021-09-02_14-28-59/2021-09-02_14-28-59.lib</uri>
     </library>
+    <library logical="644752-3">
+      <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/644752-3/2021-10-03_14-51-04/2021-10-03_14-51-04.lib</uri>
+    </library>
+    <library logical="BAV99,215">
+      <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/BAV99,215/2021-10-03_14-38-22/2021-10-03_14-38-22.lib</uri>
+    </library>
     <library logical="CL05A105KO5NNNC">
       <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/CL05A105KO5NNNC/2021-09-02_14-16-00/2021-09-02_14-16-00.lib</uri>
+    </library>
+    <library logical="CL05C101JB5NNNC">
+      <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/CL05C101JB5NNNC/2021-10-03_14-06-41/2021-10-03_14-06-41.lib</uri>
     </library>
     <library logical="CL21B474KOFNNNE">
       <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/CL21B474KOFNNNE/2021-09-02_14-34-46/2021-09-02_14-34-46.lib</uri>
@@ -2556,871 +2454,876 @@
     <library logical="CR0603-FX-75R0ELF">
       <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/CR0603-FX-75R0ELF/2021-09-02_14-39-02/2021-09-02_14-39-02.lib</uri>
     </library>
-    <library logical="Connector">
-      <uri>B:\KiCad\share\kicad\library/Connector.lib</uri>
-    </library>
-    <library logical="Device">
-      <uri>B:\KiCad\share\kicad\library/Device.lib</uri>
-    </library>
-    <library logical="Diode">
-      <uri>B:\KiCad\share\kicad\library/Diode.lib</uri>
-    </library>
     <library logical="GRM188R72A104KA35D">
       <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/GRM188R72A104KA35D/2021-09-02_15-10-54/2021-09-02_15-10-54.lib</uri>
     </library>
     <library logical="LM35DZ/NOPB">
       <uri>D:/Cloud Files/Personal Files/Stuff/PPE Project/Parts/LM35DZ_NOPB/2021-07-17_14-01-55.lib</uri>
     </library>
+    <library logical="MH3261-601Y">
+      <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/MH3261-601Y/2021-10-03_14-32-28/2021-10-03_14-32-28.lib</uri>
+    </library>
+    <library logical="PJ-102A">
+      <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/PJ-102A/2021-10-03_15-17-29/2021-10-03_15-17-29.lib</uri>
+    </library>
+    <library logical="PPTC121LFBN-RC">
+      <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/PPTC121LFBN-RC/2021-10-03_15-34-18/2021-10-03_15-34-18.lib</uri>
+    </library>
+    <library logical="RMCF0805ZT0R00">
+      <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/RMCF0805ZT0R00/2021-10-03_14-15-56/2021-10-03_14-15-56.lib</uri>
+    </library>
     <library logical="Regulator_Switching">
       <uri>B:\KiCad\share\kicad\library/Regulator_Switching.lib</uri>
+    </library>
+    <library logical="SS-52100-001">
+      <uri>D:\Cloud Files\Personal Files\Stuff\Projects\MassDeconHardware\MassDeconSystemCircuits/Parts/SS-52100-001/2021-10-03_15-26-40/2021-10-03_15-26-40.lib</uri>
     </library>
     <library logical="SamacSys_Parts">
       <uri>B:/KiCad/SamacSys_Parts.lib</uri>
     </library>
-    <library logical="pspice">
-      <uri>B:\KiCad\share\kicad\library/pspice.lib</uri>
-    </library>
   </libraries>
   <nets>
     <net code="1" name="/Main Board/T6g">
-      <node ref="D6" pin="1"/>
+      <node ref="CR6" pin="1"/>
       <node ref="IC6" pin="2"/>
       <node ref="J20" pin="3"/>
     </net>
     <net code="2" name="/Main Board/T4v">
-      <node ref="C53" pin="2"/>
-      <node ref="FB7" pin="2"/>
-      <node ref="J18" pin="1"/>
+      <node ref="L8" pin="1"/>
+      <node ref="C53" pin="1"/>
       <node ref="C52" pin="1"/>
+      <node ref="J18" pin="1"/>
     </net>
     <net code="3" name="/Main Board/T5g">
-      <node ref="IC5" pin="2"/>
-      <node ref="D5" pin="1"/>
       <node ref="J19" pin="3"/>
+      <node ref="CR5" pin="1"/>
+      <node ref="IC5" pin="2"/>
     </net>
     <net code="4" name="/Main Board/T5in">
-      <node ref="R20" pin="2"/>
+      <node ref="R20" pin="1"/>
       <node ref="IC5" pin="3"/>
       <node ref="J19" pin="2"/>
     </net>
     <net code="5" name="/Main Board/T5v">
-      <node ref="J19" pin="1"/>
-      <node ref="FB9" pin="2"/>
-      <node ref="C57" pin="2"/>
+      <node ref="C57" pin="1"/>
       <node ref="C56" pin="1"/>
+      <node ref="L10" pin="1"/>
+      <node ref="J19" pin="1"/>
     </net>
     <net code="6" name="/Main Board/T3v">
-      <node ref="J17" pin="1"/>
       <node ref="C48" pin="1"/>
-      <node ref="FB5" pin="2"/>
-      <node ref="C49" pin="2"/>
+      <node ref="J17" pin="1"/>
+      <node ref="L6" pin="1"/>
+      <node ref="C49" pin="1"/>
     </net>
     <net code="7" name="/Main Board/T6in">
-      <node ref="R21" pin="2"/>
-      <node ref="IC6" pin="3"/>
+      <node ref="R21" pin="1"/>
       <node ref="J20" pin="2"/>
+      <node ref="IC6" pin="3"/>
     </net>
     <net code="8" name="/Main Board/T6v">
-      <node ref="FB11" pin="2"/>
-      <node ref="C60" pin="1"/>
-      <node ref="C61" pin="2"/>
       <node ref="J20" pin="1"/>
+      <node ref="L12" pin="1"/>
+      <node ref="C60" pin="1"/>
+      <node ref="C61" pin="1"/>
     </net>
     <net code="9" name="/Main Board/T7g">
       <node ref="J21" pin="3"/>
-      <node ref="D7" pin="1"/>
       <node ref="IC7" pin="2"/>
+      <node ref="CR7" pin="1"/>
     </net>
     <net code="10" name="/Main Board/T7in">
-      <node ref="J21" pin="2"/>
+      <node ref="R22" pin="1"/>
       <node ref="IC7" pin="3"/>
-      <node ref="R22" pin="2"/>
+      <node ref="J21" pin="2"/>
     </net>
     <net code="11" name="/Main Board/T3g">
-      <node ref="J17" pin="3"/>
       <node ref="IC3" pin="2"/>
-      <node ref="D3" pin="1"/>
+      <node ref="J17" pin="3"/>
+      <node ref="CR3" pin="1"/>
     </net>
     <net code="12" name="/Main Board/T2g">
-      <node ref="J16" pin="3"/>
       <node ref="IC2" pin="2"/>
-      <node ref="D2" pin="1"/>
+      <node ref="CR2" pin="1"/>
+      <node ref="J16" pin="3"/>
     </net>
     <net code="13" name="/Main Board/T2v">
+      <node ref="C45" pin="1"/>
+      <node ref="L4" pin="1"/>
       <node ref="C44" pin="1"/>
       <node ref="J16" pin="1"/>
-      <node ref="C45" pin="2"/>
-      <node ref="FB3" pin="2"/>
     </net>
     <net code="14" name="/Main Board/T3in">
-      <node ref="R18" pin="2"/>
-      <node ref="IC3" pin="3"/>
+      <node ref="R18" pin="1"/>
       <node ref="J17" pin="2"/>
+      <node ref="IC3" pin="3"/>
     </net>
     <net code="15" name="/Main Board/T4g">
       <node ref="J18" pin="3"/>
       <node ref="IC4" pin="2"/>
-      <node ref="D4" pin="1"/>
+      <node ref="CR4" pin="1"/>
     </net>
     <net code="16" name="/Main Board/T4in">
-      <node ref="J18" pin="2"/>
-      <node ref="R19" pin="2"/>
       <node ref="IC4" pin="3"/>
+      <node ref="J18" pin="2"/>
+      <node ref="R19" pin="1"/>
     </net>
     <net code="17" name="/Main Board/T11v">
+      <node ref="C81" pin="1"/>
       <node ref="C80" pin="1"/>
-      <node ref="FB21" pin="2"/>
-      <node ref="C81" pin="2"/>
+      <node ref="L22" pin="1"/>
       <node ref="J26" pin="1"/>
     </net>
     <net code="18" name="/Main Board/T10in">
-      <node ref="J25" pin="2"/>
       <node ref="IC10" pin="3"/>
-      <node ref="R25" pin="2"/>
+      <node ref="R25" pin="1"/>
+      <node ref="J25" pin="2"/>
     </net>
     <net code="19" name="/Main Board/T10v">
-      <node ref="J25" pin="1"/>
-      <node ref="C77" pin="2"/>
-      <node ref="FB19" pin="2"/>
       <node ref="C76" pin="1"/>
+      <node ref="J25" pin="1"/>
+      <node ref="C77" pin="1"/>
+      <node ref="L20" pin="1"/>
     </net>
     <net code="20" name="/Main Board/T11g">
-      <node ref="J26" pin="3"/>
+      <node ref="CR11" pin="1"/>
       <node ref="IC11" pin="2"/>
-      <node ref="D11" pin="1"/>
+      <node ref="J26" pin="3"/>
     </net>
     <net code="21" name="/Main Board/T11in">
-      <node ref="R26" pin="2"/>
-      <node ref="IC11" pin="3"/>
+      <node ref="R26" pin="1"/>
       <node ref="J26" pin="2"/>
+      <node ref="IC11" pin="3"/>
     </net>
     <net code="22" name="/Main Board/T12g">
-      <node ref="IC12" pin="2"/>
-      <node ref="D12" pin="1"/>
       <node ref="J27" pin="3"/>
+      <node ref="CR12" pin="1"/>
+      <node ref="IC12" pin="2"/>
     </net>
     <net code="23" name="/Main Board/T12in">
-      <node ref="J27" pin="2"/>
       <node ref="IC12" pin="3"/>
-      <node ref="R27" pin="2"/>
+      <node ref="J27" pin="2"/>
+      <node ref="R27" pin="1"/>
     </net>
     <net code="24" name="/Main Board/T12v">
-      <node ref="FB23" pin="2"/>
-      <node ref="C85" pin="2"/>
-      <node ref="C84" pin="1"/>
       <node ref="J27" pin="1"/>
+      <node ref="C84" pin="1"/>
+      <node ref="L24" pin="1"/>
+      <node ref="C85" pin="1"/>
     </net>
     <net code="25" name="/Main Board/T7v">
-      <node ref="C65" pin="2"/>
-      <node ref="J21" pin="1"/>
-      <node ref="FB13" pin="2"/>
+      <node ref="L14" pin="1"/>
       <node ref="C64" pin="1"/>
+      <node ref="C65" pin="1"/>
+      <node ref="J21" pin="1"/>
     </net>
     <net code="26" name="/Main Board/T8g">
-      <node ref="IC8" pin="2"/>
-      <node ref="D8" pin="1"/>
       <node ref="J23" pin="3"/>
+      <node ref="IC8" pin="2"/>
+      <node ref="CR8" pin="1"/>
     </net>
     <net code="27" name="/Main Board/T8in">
-      <node ref="R23" pin="2"/>
+      <node ref="R23" pin="1"/>
       <node ref="IC8" pin="3"/>
       <node ref="J23" pin="2"/>
     </net>
     <net code="28" name="/Main Board/T8v">
+      <node ref="L16" pin="1"/>
       <node ref="C68" pin="1"/>
-      <node ref="C69" pin="2"/>
-      <node ref="FB15" pin="2"/>
+      <node ref="C69" pin="1"/>
       <node ref="J23" pin="1"/>
     </net>
     <net code="29" name="/Main Board/T1g">
       <node ref="IC1" pin="2"/>
-      <node ref="D1" pin="1"/>
       <node ref="J15" pin="3"/>
+      <node ref="CR1" pin="1"/>
     </net>
     <net code="30" name="/Main Board/T9g">
       <node ref="J24" pin="3"/>
       <node ref="IC9" pin="2"/>
-      <node ref="D9" pin="1"/>
+      <node ref="CR9" pin="1"/>
     </net>
     <net code="31" name="/Main Board/T9in">
-      <node ref="J24" pin="2"/>
-      <node ref="R24" pin="2"/>
+      <node ref="R24" pin="1"/>
       <node ref="IC9" pin="3"/>
+      <node ref="J24" pin="2"/>
     </net>
     <net code="32" name="/Main Board/T9v">
+      <node ref="C73" pin="1"/>
       <node ref="J24" pin="1"/>
-      <node ref="C73" pin="2"/>
-      <node ref="FB17" pin="2"/>
+      <node ref="L18" pin="1"/>
       <node ref="C72" pin="1"/>
     </net>
     <net code="33" name="/Main Board/T10g">
-      <node ref="J25" pin="3"/>
+      <node ref="CR10" pin="1"/>
       <node ref="IC10" pin="2"/>
-      <node ref="D10" pin="1"/>
+      <node ref="J25" pin="3"/>
     </net>
     <net code="34" name="/Main Board/5.1Vout">
-      <node ref="C39" pin="1"/>
-      <node ref="J14" pin="1"/>
-      <node ref="R14" pin="1"/>
-      <node ref="U13" pin="7"/>
-      <node ref="L1" pin="2"/>
       <node ref="R13" pin="2"/>
+      <node ref="R14" pin="1"/>
+      <node ref="L1" pin="2"/>
+      <node ref="C39" pin="1"/>
+      <node ref="J13" pin="1"/>
+      <node ref="U13" pin="7"/>
       <node ref="U13" pin="14"/>
     </net>
+    <net code="35" name="/Main Board/9Vin">
+      <node ref="L25" pin="2"/>
+      <node ref="L24" pin="2"/>
+      <node ref="L4" pin="2"/>
+      <node ref="L17" pin="2"/>
+      <node ref="L16" pin="2"/>
+      <node ref="C37" pin="2"/>
+      <node ref="L22" pin="2"/>
+      <node ref="L13" pin="2"/>
+      <node ref="L12" pin="2"/>
+      <node ref="L5" pin="2"/>
+      <node ref="L23" pin="2"/>
+      <node ref="L14" pin="2"/>
+      <node ref="L15" pin="2"/>
+      <node ref="L9" pin="2"/>
+      <node ref="L8" pin="2"/>
+      <node ref="L3" pin="2"/>
+      <node ref="L18" pin="2"/>
+      <node ref="L19" pin="2"/>
+      <node ref="L10" pin="2"/>
+      <node ref="L7" pin="2"/>
+      <node ref="L6" pin="2"/>
+      <node ref="L20" pin="2"/>
+      <node ref="U13" pin="10"/>
+      <node ref="U13" pin="13"/>
+      <node ref="L21" pin="2"/>
+      <node ref="L2" pin="2"/>
+      <node ref="L11" pin="2"/>
+      <node ref="J14" pin="1"/>
+    </net>
     <net code="36" name="/Main Board/T1in">
-      <node ref="J15" pin="2"/>
+      <node ref="R16" pin="1"/>
       <node ref="IC1" pin="3"/>
-      <node ref="R16" pin="2"/>
+      <node ref="J15" pin="2"/>
     </net>
     <net code="37" name="/Main Board/T2in">
       <node ref="J16" pin="2"/>
+      <node ref="R17" pin="1"/>
       <node ref="IC2" pin="3"/>
-      <node ref="R17" pin="2"/>
     </net>
     <net code="38" name="/Main Board/T1v">
       <node ref="J15" pin="1"/>
-      <node ref="C41" pin="2"/>
-      <node ref="FB1" pin="2"/>
       <node ref="C40" pin="1"/>
+      <node ref="L2" pin="1"/>
+      <node ref="C41" pin="1"/>
     </net>
     <net code="39" name="0">
-      <node ref="C48" pin="2"/>
-      <node ref="J14" pin="5"/>
-      <node ref="C47" pin="1"/>
-      <node ref="D2" pin="2"/>
-      <node ref="C45" pin="1"/>
-      <node ref="J14" pin="4"/>
-      <node ref="C51" pin="1"/>
-      <node ref="D3" pin="2"/>
-      <node ref="C49" pin="1"/>
-      <node ref="C50" pin="2"/>
-      <node ref="IC3" pin="1"/>
-      <node ref="R18" pin="1"/>
-      <node ref="IC3" pin="4"/>
-      <node ref="IC9" pin="4"/>
-      <node ref="IC1" pin="1"/>
-      <node ref="C87" pin="1"/>
-      <node ref="R16" pin="1"/>
-      <node ref="R24" pin="1"/>
-      <node ref="IC1" pin="4"/>
-      <node ref="C75" pin="1"/>
-      <node ref="C43" pin="1"/>
-      <node ref="D12" pin="2"/>
-      <node ref="D1" pin="2"/>
-      <node ref="C41" pin="1"/>
-      <node ref="C85" pin="1"/>
-      <node ref="R15" pin="2"/>
-      <node ref="C37" pin="1"/>
-      <node ref="IC12" pin="4"/>
-      <node ref="C40" pin="2"/>
-      <node ref="C42" pin="2"/>
-      <node ref="C73" pin="1"/>
-      <node ref="D9" pin="2"/>
       <node ref="C44" pin="2"/>
-      <node ref="C46" pin="2"/>
-      <node ref="C74" pin="2"/>
-      <node ref="C38" pin="1"/>
-      <node ref="R17" pin="1"/>
-      <node ref="C72" pin="2"/>
       <node ref="IC2" pin="4"/>
+      <node ref="R18" pin="2"/>
+      <node ref="C50" pin="2"/>
+      <node ref="C48" pin="2"/>
+      <node ref="C49" pin="2"/>
+      <node ref="C51" pin="2"/>
+      <node ref="CR3" pin="2"/>
+      <node ref="IC3" pin="4"/>
+      <node ref="IC3" pin="1"/>
       <node ref="IC2" pin="1"/>
-      <node ref="IC9" pin="1"/>
-      <node ref="C60" pin="2"/>
-      <node ref="C62" pin="2"/>
-      <node ref="U13" pin="17"/>
-      <node ref="R20" pin="1"/>
-      <node ref="IC5" pin="4"/>
-      <node ref="IC5" pin="1"/>
-      <node ref="C59" pin="1"/>
-      <node ref="D5" pin="2"/>
-      <node ref="C57" pin="1"/>
-      <node ref="U13" pin="16"/>
-      <node ref="U13" pin="15"/>
-      <node ref="J13" pin="2"/>
-      <node ref="D7" pin="2"/>
-      <node ref="C67" pin="1"/>
-      <node ref="IC7" pin="4"/>
-      <node ref="C64" pin="2"/>
-      <node ref="C66" pin="2"/>
-      <node ref="R22" pin="1"/>
-      <node ref="IC7" pin="1"/>
-      <node ref="D6" pin="2"/>
-      <node ref="IC6" pin="1"/>
-      <node ref="R21" pin="1"/>
-      <node ref="IC6" pin="4"/>
-      <node ref="C63" pin="1"/>
-      <node ref="C61" pin="1"/>
-      <node ref="C65" pin="1"/>
-      <node ref="R23" pin="1"/>
-      <node ref="IC8" pin="1"/>
-      <node ref="R19" pin="1"/>
+      <node ref="C53" pin="2"/>
+      <node ref="CR4" pin="2"/>
+      <node ref="R19" pin="2"/>
+      <node ref="C54" pin="2"/>
+      <node ref="C52" pin="2"/>
+      <node ref="C55" pin="2"/>
+      <node ref="C47" pin="2"/>
+      <node ref="C45" pin="2"/>
       <node ref="IC4" pin="4"/>
       <node ref="IC4" pin="1"/>
-      <node ref="C55" pin="1"/>
-      <node ref="D4" pin="2"/>
-      <node ref="C53" pin="1"/>
-      <node ref="C69" pin="1"/>
-      <node ref="D8" pin="2"/>
-      <node ref="C52" pin="2"/>
-      <node ref="C54" pin="2"/>
-      <node ref="C71" pin="1"/>
+      <node ref="IC9" pin="1"/>
+      <node ref="IC9" pin="4"/>
+      <node ref="C76" pin="2"/>
+      <node ref="C78" pin="2"/>
+      <node ref="R25" pin="2"/>
+      <node ref="CR10" pin="2"/>
+      <node ref="C75" pin="2"/>
+      <node ref="IC8" pin="1"/>
       <node ref="IC8" pin="4"/>
-      <node ref="U13" pin="8"/>
-      <node ref="C68" pin="2"/>
-      <node ref="C56" pin="2"/>
-      <node ref="C58" pin="2"/>
-      <node ref="U13" pin="6"/>
-      <node ref="C70" pin="2"/>
+      <node ref="CR9" pin="2"/>
+      <node ref="C73" pin="2"/>
+      <node ref="C72" pin="2"/>
+      <node ref="C74" pin="2"/>
+      <node ref="R24" pin="2"/>
+      <node ref="C86" pin="2"/>
+      <node ref="CR11" pin="2"/>
+      <node ref="C83" pin="2"/>
+      <node ref="IC11" pin="4"/>
+      <node ref="IC11" pin="1"/>
+      <node ref="C81" pin="2"/>
       <node ref="C80" pin="2"/>
       <node ref="C82" pin="2"/>
-      <node ref="C76" pin="2"/>
-      <node ref="C77" pin="1"/>
-      <node ref="R27" pin="1"/>
-      <node ref="C78" pin="2"/>
-      <node ref="IC12" pin="1"/>
-      <node ref="C83" pin="1"/>
-      <node ref="IC10" pin="1"/>
-      <node ref="IC11" pin="4"/>
-      <node ref="R25" pin="1"/>
-      <node ref="R26" pin="1"/>
-      <node ref="IC11" pin="1"/>
-      <node ref="D10" pin="2"/>
-      <node ref="C79" pin="1"/>
-      <node ref="C81" pin="1"/>
+      <node ref="R26" pin="2"/>
       <node ref="IC10" pin="4"/>
-      <node ref="D11" pin="2"/>
-      <node ref="C86" pin="2"/>
+      <node ref="C79" pin="2"/>
+      <node ref="C77" pin="2"/>
+      <node ref="IC10" pin="1"/>
+      <node ref="C62" pin="2"/>
+      <node ref="C63" pin="2"/>
+      <node ref="C61" pin="2"/>
+      <node ref="C60" pin="2"/>
+      <node ref="R21" pin="2"/>
+      <node ref="CR6" pin="2"/>
+      <node ref="IC12" pin="4"/>
+      <node ref="IC6" pin="1"/>
+      <node ref="IC6" pin="4"/>
+      <node ref="IC12" pin="1"/>
+      <node ref="C59" pin="2"/>
+      <node ref="IC5" pin="1"/>
+      <node ref="IC5" pin="4"/>
+      <node ref="C57" pin="2"/>
+      <node ref="C56" pin="2"/>
+      <node ref="C58" pin="2"/>
+      <node ref="R20" pin="2"/>
+      <node ref="CR12" pin="2"/>
+      <node ref="R27" pin="2"/>
+      <node ref="C71" pin="2"/>
+      <node ref="C69" pin="2"/>
+      <node ref="C68" pin="2"/>
+      <node ref="C70" pin="2"/>
+      <node ref="R23" pin="2"/>
+      <node ref="CR8" pin="2"/>
+      <node ref="C87" pin="2"/>
+      <node ref="R22" pin="2"/>
+      <node ref="CR7" pin="2"/>
       <node ref="C84" pin="2"/>
+      <node ref="IC7" pin="1"/>
+      <node ref="IC7" pin="4"/>
+      <node ref="CR5" pin="2"/>
+      <node ref="C85" pin="2"/>
+      <node ref="C67" pin="2"/>
+      <node ref="C65" pin="2"/>
+      <node ref="C64" pin="2"/>
+      <node ref="C66" pin="2"/>
+      <node ref="U13" pin="17"/>
+      <node ref="U13" pin="16"/>
+      <node ref="U13" pin="15"/>
+      <node ref="U13" pin="6"/>
+      <node ref="C38" pin="1"/>
+      <node ref="U13" pin="8"/>
+      <node ref="J13" pin="4"/>
+      <node ref="R15" pin="2"/>
+      <node ref="J14" pin="2"/>
+      <node ref="C37" pin="1"/>
+      <node ref="C46" pin="2"/>
+      <node ref="R17" pin="2"/>
+      <node ref="CR2" pin="2"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="IC1" pin="1"/>
+      <node ref="C43" pin="2"/>
+      <node ref="C41" pin="2"/>
+      <node ref="C40" pin="2"/>
+      <node ref="C42" pin="2"/>
+      <node ref="R16" pin="2"/>
+      <node ref="CR1" pin="2"/>
     </net>
-    <net code="52" name="Net-(U1-Pad1)">
-      <node ref="U1" pin="1"/>
-    </net>
-    <net code="53" name="GNDREF">
+    <net code="52" name="GNDREF">
+      <node ref="C16" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C18" pin="2"/>
+      <node ref="U6" pin="3"/>
       <node ref="J6" pin="3"/>
+      <node ref="J9" pin="3"/>
       <node ref="C22" pin="2"/>
-      <node ref="C23" pin="2"/>
-      <node ref="C24" pin="2"/>
-      <node ref="U8" pin="3"/>
-      <node ref="C20" pin="2"/>
-      <node ref="J7" pin="3"/>
       <node ref="C21" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="U8" pin="3"/>
+      <node ref="C24" pin="2"/>
+      <node ref="C23" pin="2"/>
+      <node ref="J8" pin="3"/>
+      <node ref="J1" pin="3"/>
       <node ref="U7" pin="3"/>
+      <node ref="J7" pin="3"/>
       <node ref="C19" pin="2"/>
-      <node ref="C1" pin="2"/>
+      <node ref="U3" pin="3"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="J3" pin="3"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="U2" pin="3"/>
+      <node ref="J2" pin="3"/>
+      <node ref="U5" pin="3"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="J5" pin="3"/>
       <node ref="U4" pin="3"/>
       <node ref="C12" pin="2"/>
       <node ref="C11" pin="2"/>
       <node ref="C10" pin="2"/>
-      <node ref="U3" pin="3"/>
-      <node ref="C9" pin="2"/>
-      <node ref="C8" pin="2"/>
-      <node ref="J1" pin="3"/>
-      <node ref="C7" pin="2"/>
-      <node ref="J3" pin="3"/>
-      <node ref="C13" pin="2"/>
-      <node ref="J5" pin="3"/>
-      <node ref="C14" pin="2"/>
-      <node ref="C17" pin="2"/>
-      <node ref="C18" pin="2"/>
-      <node ref="U6" pin="3"/>
-      <node ref="C16" pin="2"/>
-      <node ref="C2" pin="2"/>
       <node ref="J4" pin="3"/>
-      <node ref="J2" pin="3"/>
-      <node ref="U5" pin="3"/>
-      <node ref="C15" pin="2"/>
-      <node ref="C6" pin="2"/>
-      <node ref="C34" pin="2"/>
-      <node ref="C5" pin="2"/>
-      <node ref="J9" pin="3"/>
-      <node ref="J12" pin="3"/>
-      <node ref="C25" pin="2"/>
-      <node ref="U10" pin="3"/>
-      <node ref="C4" pin="2"/>
-      <node ref="C35" pin="2"/>
       <node ref="C36" pin="2"/>
-      <node ref="C30" pin="2"/>
+      <node ref="C34" pin="2"/>
       <node ref="J10" pin="3"/>
+      <node ref="J12" pin="3"/>
+      <node ref="C2" pin="2"/>
       <node ref="U12" pin="3"/>
-      <node ref="U2" pin="3"/>
-      <node ref="C29" pin="2"/>
-      <node ref="U11" pin="3"/>
-      <node ref="C28" pin="2"/>
-      <node ref="C31" pin="2"/>
-      <node ref="U1" pin="3"/>
-      <node ref="C27" pin="2"/>
-      <node ref="J11" pin="3"/>
-      <node ref="C26" pin="2"/>
+      <node ref="C35" pin="2"/>
       <node ref="C3" pin="2"/>
-      <node ref="C32" pin="2"/>
-      <node ref="C33" pin="2"/>
-      <node ref="J8" pin="3"/>
+      <node ref="C28" pin="2"/>
+      <node ref="C29" pin="2"/>
+      <node ref="C30" pin="2"/>
+      <node ref="U10" pin="3"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U11" pin="3"/>
+      <node ref="C26" pin="2"/>
+      <node ref="J11" pin="3"/>
+      <node ref="C27" pin="2"/>
       <node ref="U9" pin="3"/>
+      <node ref="U1" pin="3"/>
+      <node ref="C25" pin="2"/>
+      <node ref="C33" pin="2"/>
+      <node ref="C31" pin="2"/>
+      <node ref="C32" pin="2"/>
     </net>
-    <net code="54" name="Net-(C3-Pad1)">
-      <node ref="C3" pin="1"/>
+    <net code="53" name="Net-(C3-Pad1)">
       <node ref="R1" pin="2"/>
+      <node ref="C3" pin="1"/>
     </net>
-    <net code="55" name="/Sensor1/Vs">
+    <net code="54" name="/Sensor1/Vs">
       <node ref="C2" pin="1"/>
       <node ref="C1" pin="1"/>
       <node ref="J1" pin="1"/>
     </net>
+    <net code="55" name="Net-(U1-Pad1)">
+      <node ref="U1" pin="1"/>
+    </net>
     <net code="56" name="/Sensor1/Vout">
-      <node ref="J1" pin="2"/>
       <node ref="U1" pin="2"/>
+      <node ref="J1" pin="2"/>
       <node ref="R1" pin="1"/>
     </net>
-    <net code="57" name="/Main Board/SignalConditioner8/T_out">
-      <node ref="IC8" pin="6"/>
-      <node ref="IC8" pin="5"/>
-      <node ref="J22" pin="8"/>
+    <net code="57" name="/Main Board/SignalConditioner12/T_out">
+      <node ref="IC12" pin="6"/>
+      <node ref="J22" pin="12"/>
+      <node ref="IC12" pin="5"/>
     </net>
-    <net code="58" name="/Main Board/SignalConditioner6/T_out">
-      <node ref="IC6" pin="6"/>
-      <node ref="IC6" pin="5"/>
-      <node ref="J22" pin="6"/>
+    <net code="58" name="/Main Board/SignalConditioner10/T_out">
+      <node ref="IC10" pin="5"/>
+      <node ref="J22" pin="10"/>
+      <node ref="IC10" pin="6"/>
     </net>
-    <net code="59" name="/Main Board/SignalConditioner2/T_out">
-      <node ref="J22" pin="2"/>
-      <node ref="IC2" pin="5"/>
-      <node ref="IC2" pin="6"/>
-    </net>
-    <net code="60" name="/Main Board/SignalConditioner1/T_out">
-      <node ref="J22" pin="1"/>
-      <node ref="IC1" pin="5"/>
-      <node ref="IC1" pin="6"/>
-    </net>
-    <net code="61" name="/Main Board/SignalConditioner3/T_out">
+    <net code="59" name="/Main Board/SignalConditioner3/T_out">
       <node ref="J22" pin="3"/>
       <node ref="IC3" pin="6"/>
       <node ref="IC3" pin="5"/>
     </net>
-    <net code="62" name="/Main Board/SignalConditioner12/T_out">
-      <node ref="J22" pin="12"/>
-      <node ref="IC12" pin="5"/>
-      <node ref="IC12" pin="6"/>
+    <net code="60" name="/Main Board/SignalConditioner2/T_out">
+      <node ref="IC2" pin="6"/>
+      <node ref="J22" pin="2"/>
+      <node ref="IC2" pin="5"/>
     </net>
-    <net code="63" name="/Main Board/SignalConditioner7/T_out">
-      <node ref="J22" pin="7"/>
-      <node ref="IC7" pin="5"/>
-      <node ref="IC7" pin="6"/>
+    <net code="61" name="/Main Board/SignalConditioner4/T_out">
+      <node ref="IC4" pin="5"/>
+      <node ref="IC4" pin="6"/>
+      <node ref="J22" pin="4"/>
     </net>
-    <net code="64" name="/Main Board/SignalConditioner9/T_out">
+    <net code="62" name="/Main Board/SignalConditioner1/T_out">
+      <node ref="IC1" pin="6"/>
+      <node ref="J22" pin="1"/>
+      <node ref="IC1" pin="5"/>
+    </net>
+    <net code="63" name="/Main Board/SignalConditioner5/T_out">
+      <node ref="IC5" pin="5"/>
+      <node ref="J22" pin="5"/>
+      <node ref="IC5" pin="6"/>
+    </net>
+    <net code="64" name="Net-(J13-Pad3)">
+      <node ref="J13" pin="3"/>
+    </net>
+    <net code="65" name="Net-(J13-Pad2)">
+      <node ref="J13" pin="2"/>
+    </net>
+    <net code="66" name="Net-(J14-Pad3)">
+      <node ref="J14" pin="3"/>
+    </net>
+    <net code="67" name="/Main Board/SignalConditioner6/T_out">
+      <node ref="IC6" pin="5"/>
+      <node ref="IC6" pin="6"/>
+      <node ref="J22" pin="6"/>
+    </net>
+    <net code="68" name="/Main Board/SignalConditioner11/T_out">
+      <node ref="J22" pin="11"/>
+      <node ref="IC11" pin="6"/>
+      <node ref="IC11" pin="5"/>
+    </net>
+    <net code="69" name="/Main Board/SignalConditioner9/T_out">
       <node ref="J22" pin="9"/>
       <node ref="IC9" pin="6"/>
       <node ref="IC9" pin="5"/>
     </net>
-    <net code="65" name="/Main Board/SignalConditioner10/T_out">
-      <node ref="J22" pin="10"/>
-      <node ref="IC10" pin="5"/>
-      <node ref="IC10" pin="6"/>
+    <net code="70" name="/Main Board/SignalConditioner8/T_out">
+      <node ref="IC8" pin="5"/>
+      <node ref="IC8" pin="6"/>
+      <node ref="J22" pin="8"/>
     </net>
-    <net code="66" name="/Main Board/SignalConditioner11/T_out">
-      <node ref="IC11" pin="5"/>
-      <node ref="IC11" pin="6"/>
-      <node ref="J22" pin="11"/>
+    <net code="71" name="/Main Board/SignalConditioner7/T_out">
+      <node ref="IC7" pin="6"/>
+      <node ref="IC7" pin="5"/>
+      <node ref="J22" pin="7"/>
     </net>
-    <net code="67" name="/Main Board/SignalConditioner5/T_out">
-      <node ref="J22" pin="5"/>
-      <node ref="IC5" pin="6"/>
-      <node ref="IC5" pin="5"/>
-    </net>
-    <net code="68" name="/Main Board/SignalConditioner4/T_out">
-      <node ref="J22" pin="4"/>
-      <node ref="IC4" pin="6"/>
-      <node ref="IC4" pin="5"/>
-    </net>
-    <net code="69" name="Net-(L1-Pad1)">
+    <net code="72" name="Net-(L1-Pad1)">
       <node ref="U13" pin="1"/>
-      <node ref="U13" pin="2"/>
       <node ref="U13" pin="3"/>
+      <node ref="U13" pin="2"/>
       <node ref="L1" pin="1"/>
     </net>
-    <net code="70" name="Net-(R13-Pad1)">
+    <net code="73" name="Net-(R13-Pad1)">
       <node ref="R13" pin="1"/>
       <node ref="U13" pin="4"/>
     </net>
-    <net code="71" name="/Main Board/SignalConditioner1/V_in">
-      <node ref="FB24" pin="1"/>
-      <node ref="J13" pin="1"/>
-      <node ref="FB15" pin="1"/>
-      <node ref="FB22" pin="1"/>
-      <node ref="FB13" pin="1"/>
-      <node ref="FB19" pin="1"/>
-      <node ref="FB18" pin="1"/>
-      <node ref="FB20" pin="1"/>
-      <node ref="FB17" pin="1"/>
-      <node ref="FB16" pin="1"/>
-      <node ref="C37" pin="2"/>
-      <node ref="FB21" pin="1"/>
-      <node ref="FB23" pin="1"/>
-      <node ref="FB8" pin="1"/>
-      <node ref="FB5" pin="1"/>
-      <node ref="FB7" pin="1"/>
-      <node ref="FB1" pin="1"/>
-      <node ref="FB2" pin="1"/>
-      <node ref="U13" pin="13"/>
-      <node ref="U13" pin="10"/>
-      <node ref="FB3" pin="1"/>
-      <node ref="FB6" pin="1"/>
-      <node ref="FB4" pin="1"/>
-      <node ref="FB11" pin="1"/>
-      <node ref="FB9" pin="1"/>
-      <node ref="FB12" pin="1"/>
-      <node ref="FB14" pin="1"/>
-      <node ref="FB10" pin="1"/>
-    </net>
-    <net code="72" name="Net-(U13-Pad11)">
+    <net code="74" name="Net-(U13-Pad11)">
       <node ref="U13" pin="12"/>
       <node ref="U13" pin="11"/>
-    </net>
-    <net code="73" name="Net-(J14-Pad2)">
-      <node ref="J14" pin="2"/>
-    </net>
-    <net code="74" name="Net-(J14-Pad3)">
-      <node ref="J14" pin="3"/>
     </net>
     <net code="75" name="Net-(C38-Pad2)">
       <node ref="U13" pin="9"/>
       <node ref="C38" pin="2"/>
     </net>
     <net code="76" name="Net-(C39-Pad2)">
-      <node ref="C39" pin="2"/>
       <node ref="U13" pin="5"/>
-      <node ref="R15" pin="1"/>
       <node ref="R14" pin="2"/>
+      <node ref="R15" pin="1"/>
+      <node ref="C39" pin="2"/>
     </net>
-    <net code="77" name="Net-(U2-Pad1)">
+    <net code="77" name="Net-(C6-Pad1)">
+      <node ref="R2" pin="2"/>
+      <node ref="C6" pin="1"/>
+    </net>
+    <net code="78" name="/Sensor2/Vs">
+      <node ref="C5" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="J2" pin="1"/>
+    </net>
+    <net code="79" name="Net-(U2-Pad1)">
       <node ref="U2" pin="1"/>
     </net>
-    <net code="78" name="Net-(C6-Pad1)">
-      <node ref="C6" pin="1"/>
-      <node ref="R2" pin="2"/>
-    </net>
-    <net code="79" name="/Sensor2/Vs">
-      <node ref="J2" pin="1"/>
-      <node ref="C4" pin="1"/>
-      <node ref="C5" pin="1"/>
-    </net>
     <net code="80" name="/Sensor2/Vout">
-      <node ref="R2" pin="1"/>
-      <node ref="U2" pin="2"/>
       <node ref="J2" pin="2"/>
+      <node ref="U2" pin="2"/>
+      <node ref="R2" pin="1"/>
     </net>
-    <net code="81" name="Net-(U3-Pad1)">
-      <node ref="U3" pin="1"/>
-    </net>
-    <net code="82" name="Net-(C9-Pad1)">
+    <net code="81" name="Net-(C9-Pad1)">
       <node ref="R3" pin="2"/>
       <node ref="C9" pin="1"/>
     </net>
-    <net code="83" name="/Sensor3/Vs">
+    <net code="82" name="/Sensor3/Vs">
       <node ref="J3" pin="1"/>
       <node ref="C7" pin="1"/>
       <node ref="C8" pin="1"/>
     </net>
+    <net code="83" name="Net-(U3-Pad1)">
+      <node ref="U3" pin="1"/>
+    </net>
     <net code="84" name="/Sensor3/Vout">
+      <node ref="U3" pin="2"/>
       <node ref="J3" pin="2"/>
       <node ref="R3" pin="1"/>
-      <node ref="U3" pin="2"/>
     </net>
-    <net code="85" name="Net-(U4-Pad1)">
-      <node ref="U4" pin="1"/>
-    </net>
-    <net code="86" name="Net-(C12-Pad1)">
-      <node ref="C12" pin="1"/>
+    <net code="85" name="Net-(C12-Pad1)">
       <node ref="R4" pin="2"/>
+      <node ref="C12" pin="1"/>
     </net>
-    <net code="87" name="/Sensor4/Vs">
+    <net code="86" name="/Sensor4/Vs">
       <node ref="J4" pin="1"/>
       <node ref="C11" pin="1"/>
       <node ref="C10" pin="1"/>
     </net>
+    <net code="87" name="Net-(U4-Pad1)">
+      <node ref="U4" pin="1"/>
+    </net>
     <net code="88" name="/Sensor4/Vout">
-      <node ref="U4" pin="2"/>
       <node ref="R4" pin="1"/>
+      <node ref="U4" pin="2"/>
       <node ref="J4" pin="2"/>
     </net>
-    <net code="89" name="Net-(U5-Pad1)">
-      <node ref="U5" pin="1"/>
-    </net>
-    <net code="90" name="Net-(C15-Pad1)">
+    <net code="89" name="Net-(C15-Pad1)">
       <node ref="C15" pin="1"/>
       <node ref="R5" pin="2"/>
     </net>
-    <net code="91" name="/Sensor5/Vs">
+    <net code="90" name="/Sensor5/Vs">
       <node ref="J5" pin="1"/>
       <node ref="C13" pin="1"/>
       <node ref="C14" pin="1"/>
+    </net>
+    <net code="91" name="Net-(U5-Pad1)">
+      <node ref="U5" pin="1"/>
     </net>
     <net code="92" name="/Sensor5/Vout">
       <node ref="R5" pin="1"/>
       <node ref="J5" pin="2"/>
       <node ref="U5" pin="2"/>
     </net>
-    <net code="93" name="Net-(U6-Pad1)">
-      <node ref="U6" pin="1"/>
-    </net>
-    <net code="94" name="Net-(C18-Pad1)">
+    <net code="93" name="Net-(C18-Pad1)">
       <node ref="R6" pin="2"/>
       <node ref="C18" pin="1"/>
     </net>
-    <net code="95" name="/Sensor6/Vs">
+    <net code="94" name="/Sensor6/Vs">
+      <node ref="J6" pin="1"/>
       <node ref="C17" pin="1"/>
       <node ref="C16" pin="1"/>
-      <node ref="J6" pin="1"/>
+    </net>
+    <net code="95" name="Net-(U6-Pad1)">
+      <node ref="U6" pin="1"/>
     </net>
     <net code="96" name="/Sensor6/Vout">
       <node ref="U6" pin="2"/>
-      <node ref="J6" pin="2"/>
       <node ref="R6" pin="1"/>
+      <node ref="J6" pin="2"/>
     </net>
-    <net code="97" name="/Sensor7/Vs">
-      <node ref="C20" pin="1"/>
-      <node ref="C19" pin="1"/>
-      <node ref="J7" pin="1"/>
+    <net code="97" name="Net-(U7-Pad1)">
+      <node ref="U7" pin="1"/>
     </net>
     <net code="98" name="/Sensor7/Vout">
-      <node ref="J7" pin="2"/>
       <node ref="U7" pin="2"/>
+      <node ref="J7" pin="2"/>
       <node ref="R7" pin="1"/>
     </net>
     <net code="99" name="Net-(C21-Pad1)">
       <node ref="R7" pin="2"/>
       <node ref="C21" pin="1"/>
     </net>
-    <net code="100" name="Net-(U7-Pad1)">
-      <node ref="U7" pin="1"/>
+    <net code="100" name="/Sensor7/Vs">
+      <node ref="C19" pin="1"/>
+      <node ref="C20" pin="1"/>
+      <node ref="J7" pin="1"/>
     </net>
-    <net code="101" name="Net-(U8-Pad1)">
+    <net code="101" name="Net-(C24-Pad1)">
+      <node ref="C24" pin="1"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="102" name="/Sensor8/Vs">
+      <node ref="C23" pin="1"/>
+      <node ref="C22" pin="1"/>
+      <node ref="J8" pin="1"/>
+    </net>
+    <net code="103" name="Net-(U8-Pad1)">
       <node ref="U8" pin="1"/>
     </net>
-    <net code="102" name="Net-(C24-Pad1)">
-      <node ref="R8" pin="2"/>
-      <node ref="C24" pin="1"/>
-    </net>
-    <net code="103" name="/Sensor8/Vs">
-      <node ref="J8" pin="1"/>
-      <node ref="C22" pin="1"/>
-      <node ref="C23" pin="1"/>
-    </net>
     <net code="104" name="/Sensor8/Vout">
+      <node ref="J8" pin="2"/>
       <node ref="R8" pin="1"/>
       <node ref="U8" pin="2"/>
-      <node ref="J8" pin="2"/>
     </net>
     <net code="105" name="Net-(C27-Pad1)">
       <node ref="C27" pin="1"/>
       <node ref="R9" pin="2"/>
     </net>
-    <net code="106" name="Net-(U9-Pad1)">
+    <net code="106" name="/Sensor9/Vs">
+      <node ref="C26" pin="1"/>
+      <node ref="C25" pin="1"/>
+      <node ref="J9" pin="1"/>
+    </net>
+    <net code="107" name="Net-(U9-Pad1)">
       <node ref="U9" pin="1"/>
     </net>
-    <net code="107" name="/Sensor9/Vs">
-      <node ref="J9" pin="1"/>
-      <node ref="C25" pin="1"/>
-      <node ref="C26" pin="1"/>
-    </net>
     <net code="108" name="/Sensor9/Vout">
-      <node ref="R9" pin="1"/>
       <node ref="J9" pin="2"/>
+      <node ref="R9" pin="1"/>
       <node ref="U9" pin="2"/>
     </net>
-    <net code="109" name="Net-(U10-Pad1)">
-      <node ref="U10" pin="1"/>
-    </net>
-    <net code="110" name="Net-(C30-Pad1)">
+    <net code="109" name="Net-(C30-Pad1)">
       <node ref="C30" pin="1"/>
       <node ref="R10" pin="2"/>
     </net>
-    <net code="111" name="/Sensor10/Vs">
-      <node ref="J10" pin="1"/>
-      <node ref="C28" pin="1"/>
+    <net code="110" name="/Sensor10/Vs">
       <node ref="C29" pin="1"/>
+      <node ref="C28" pin="1"/>
+      <node ref="J10" pin="1"/>
+    </net>
+    <net code="111" name="Net-(U10-Pad1)">
+      <node ref="U10" pin="1"/>
     </net>
     <net code="112" name="/Sensor10/Vout">
+      <node ref="U10" pin="2"/>
       <node ref="J10" pin="2"/>
       <node ref="R10" pin="1"/>
-      <node ref="U10" pin="2"/>
     </net>
-    <net code="113" name="Net-(U11-Pad1)">
-      <node ref="U11" pin="1"/>
-    </net>
-    <net code="114" name="Net-(C33-Pad1)">
-      <node ref="C33" pin="1"/>
+    <net code="113" name="Net-(C33-Pad1)">
       <node ref="R11" pin="2"/>
+      <node ref="C33" pin="1"/>
     </net>
-    <net code="115" name="/Sensor11/Vs">
-      <node ref="J11" pin="1"/>
+    <net code="114" name="/Sensor11/Vs">
       <node ref="C31" pin="1"/>
       <node ref="C32" pin="1"/>
+      <node ref="J11" pin="1"/>
+    </net>
+    <net code="115" name="Net-(U11-Pad1)">
+      <node ref="U11" pin="1"/>
     </net>
     <net code="116" name="/Sensor11/Vout">
       <node ref="U11" pin="2"/>
       <node ref="R11" pin="1"/>
       <node ref="J11" pin="2"/>
     </net>
-    <net code="117" name="Net-(U12-Pad1)">
-      <node ref="U12" pin="1"/>
-    </net>
-    <net code="118" name="Net-(C36-Pad1)">
-      <node ref="R12" pin="2"/>
+    <net code="117" name="Net-(C36-Pad1)">
       <node ref="C36" pin="1"/>
+      <node ref="R12" pin="2"/>
     </net>
-    <net code="119" name="/Sensor12/Vs">
+    <net code="118" name="/Sensor12/Vs">
       <node ref="J12" pin="1"/>
       <node ref="C35" pin="1"/>
       <node ref="C34" pin="1"/>
     </net>
+    <net code="119" name="Net-(U12-Pad1)">
+      <node ref="U12" pin="1"/>
+    </net>
     <net code="120" name="/Sensor12/Vout">
-      <node ref="U12" pin="2"/>
       <node ref="R12" pin="1"/>
       <node ref="J12" pin="2"/>
+      <node ref="U12" pin="2"/>
     </net>
-    <net code="121" name="Net-(C42-Pad1)">
-      <node ref="IC1" pin="7"/>
-      <node ref="C43" pin="2"/>
-      <node ref="FB2" pin="2"/>
+    <net code="121" name="Net-(CR1-Pad3)">
+      <node ref="CR1" pin="3"/>
+    </net>
+    <net code="122" name="Net-(C42-Pad1)">
+      <node ref="L3" pin="1"/>
       <node ref="C42" pin="1"/>
+      <node ref="IC1" pin="7"/>
+      <node ref="C43" pin="1"/>
     </net>
-    <net code="122" name="Net-(IC1-Pad8)">
+    <net code="123" name="Net-(IC1-Pad8)">
       <node ref="IC1" pin="8"/>
     </net>
-    <net code="123" name="Net-(D1-Pad3)">
-      <node ref="D1" pin="3"/>
-    </net>
-    <net code="124" name="Net-(IC2-Pad8)">
-      <node ref="IC2" pin="8"/>
+    <net code="124" name="Net-(CR2-Pad3)">
+      <node ref="CR2" pin="3"/>
     </net>
     <net code="125" name="Net-(C46-Pad1)">
-      <node ref="C47" pin="2"/>
+      <node ref="L5" pin="1"/>
+      <node ref="C47" pin="1"/>
       <node ref="C46" pin="1"/>
-      <node ref="FB4" pin="2"/>
       <node ref="IC2" pin="7"/>
     </net>
-    <net code="126" name="Net-(D2-Pad3)">
-      <node ref="D2" pin="3"/>
+    <net code="126" name="Net-(IC2-Pad8)">
+      <node ref="IC2" pin="8"/>
     </net>
-    <net code="127" name="Net-(C50-Pad1)">
+    <net code="127" name="Net-(CR3-Pad3)">
+      <node ref="CR3" pin="3"/>
+    </net>
+    <net code="128" name="Net-(C50-Pad1)">
+      <node ref="C51" pin="1"/>
       <node ref="C50" pin="1"/>
-      <node ref="FB6" pin="2"/>
+      <node ref="L7" pin="1"/>
       <node ref="IC3" pin="7"/>
-      <node ref="C51" pin="2"/>
     </net>
-    <net code="128" name="Net-(IC3-Pad8)">
+    <net code="129" name="Net-(IC3-Pad8)">
       <node ref="IC3" pin="8"/>
     </net>
-    <net code="129" name="Net-(D3-Pad3)">
-      <node ref="D3" pin="3"/>
+    <net code="130" name="Net-(CR4-Pad3)">
+      <node ref="CR4" pin="3"/>
     </net>
-    <net code="130" name="Net-(C54-Pad1)">
-      <node ref="C54" pin="1"/>
+    <net code="131" name="Net-(C54-Pad1)">
       <node ref="IC4" pin="7"/>
-      <node ref="C55" pin="2"/>
-      <node ref="FB8" pin="2"/>
+      <node ref="L9" pin="1"/>
+      <node ref="C54" pin="1"/>
+      <node ref="C55" pin="1"/>
     </net>
-    <net code="131" name="Net-(IC4-Pad8)">
+    <net code="132" name="Net-(IC4-Pad8)">
       <node ref="IC4" pin="8"/>
     </net>
-    <net code="132" name="Net-(D4-Pad3)">
-      <node ref="D4" pin="3"/>
-    </net>
-    <net code="133" name="Net-(IC5-Pad8)">
-      <node ref="IC5" pin="8"/>
+    <net code="133" name="Net-(CR5-Pad3)">
+      <node ref="CR5" pin="3"/>
     </net>
     <net code="134" name="Net-(C58-Pad1)">
       <node ref="C58" pin="1"/>
       <node ref="IC5" pin="7"/>
-      <node ref="C59" pin="2"/>
-      <node ref="FB10" pin="2"/>
+      <node ref="C59" pin="1"/>
+      <node ref="L11" pin="1"/>
     </net>
-    <net code="135" name="Net-(D5-Pad3)">
-      <node ref="D5" pin="3"/>
+    <net code="135" name="Net-(IC5-Pad8)">
+      <node ref="IC5" pin="8"/>
     </net>
-    <net code="136" name="Net-(C62-Pad1)">
-      <node ref="C63" pin="2"/>
+    <net code="136" name="Net-(CR6-Pad3)">
+      <node ref="CR6" pin="3"/>
+    </net>
+    <net code="137" name="Net-(C62-Pad1)">
       <node ref="C62" pin="1"/>
-      <node ref="FB12" pin="2"/>
       <node ref="IC6" pin="7"/>
+      <node ref="L13" pin="1"/>
+      <node ref="C63" pin="1"/>
     </net>
-    <net code="137" name="Net-(IC6-Pad8)">
+    <net code="138" name="Net-(IC6-Pad8)">
       <node ref="IC6" pin="8"/>
     </net>
-    <net code="138" name="Net-(D6-Pad3)">
-      <node ref="D6" pin="3"/>
-    </net>
-    <net code="139" name="Net-(IC7-Pad8)">
-      <node ref="IC7" pin="8"/>
+    <net code="139" name="Net-(CR7-Pad3)">
+      <node ref="CR7" pin="3"/>
     </net>
     <net code="140" name="Net-(C66-Pad1)">
-      <node ref="C67" pin="2"/>
-      <node ref="C66" pin="1"/>
       <node ref="IC7" pin="7"/>
-      <node ref="FB14" pin="2"/>
+      <node ref="L15" pin="1"/>
+      <node ref="C67" pin="1"/>
+      <node ref="C66" pin="1"/>
     </net>
-    <net code="141" name="Net-(D7-Pad3)">
-      <node ref="D7" pin="3"/>
+    <net code="141" name="Net-(IC7-Pad8)">
+      <node ref="IC7" pin="8"/>
     </net>
-    <net code="142" name="Net-(C70-Pad1)">
+    <net code="142" name="Net-(CR8-Pad3)">
+      <node ref="CR8" pin="3"/>
+    </net>
+    <net code="143" name="Net-(C70-Pad1)">
       <node ref="C70" pin="1"/>
-      <node ref="C71" pin="2"/>
+      <node ref="C71" pin="1"/>
+      <node ref="L17" pin="1"/>
       <node ref="IC8" pin="7"/>
-      <node ref="FB16" pin="2"/>
     </net>
-    <net code="143" name="Net-(IC8-Pad8)">
+    <net code="144" name="Net-(IC8-Pad8)">
       <node ref="IC8" pin="8"/>
     </net>
-    <net code="144" name="Net-(D8-Pad3)">
-      <node ref="D8" pin="3"/>
-    </net>
-    <net code="145" name="Net-(IC9-Pad8)">
-      <node ref="IC9" pin="8"/>
+    <net code="145" name="Net-(CR9-Pad3)">
+      <node ref="CR9" pin="3"/>
     </net>
     <net code="146" name="Net-(C74-Pad1)">
-      <node ref="FB18" pin="2"/>
-      <node ref="C74" pin="1"/>
       <node ref="IC9" pin="7"/>
-      <node ref="C75" pin="2"/>
+      <node ref="C75" pin="1"/>
+      <node ref="C74" pin="1"/>
+      <node ref="L19" pin="1"/>
     </net>
-    <net code="147" name="Net-(D9-Pad3)">
-      <node ref="D9" pin="3"/>
+    <net code="147" name="Net-(IC9-Pad8)">
+      <node ref="IC9" pin="8"/>
     </net>
-    <net code="148" name="Net-(C78-Pad1)">
-      <node ref="C78" pin="1"/>
-      <node ref="FB20" pin="2"/>
+    <net code="148" name="Net-(CR10-Pad3)">
+      <node ref="CR10" pin="3"/>
+    </net>
+    <net code="149" name="Net-(C78-Pad1)">
       <node ref="IC10" pin="7"/>
-      <node ref="C79" pin="2"/>
+      <node ref="C79" pin="1"/>
+      <node ref="C78" pin="1"/>
+      <node ref="L21" pin="1"/>
     </net>
-    <net code="149" name="Net-(IC10-Pad8)">
+    <net code="150" name="Net-(IC10-Pad8)">
       <node ref="IC10" pin="8"/>
     </net>
-    <net code="150" name="Net-(D10-Pad3)">
-      <node ref="D10" pin="3"/>
+    <net code="151" name="Net-(CR11-Pad3)">
+      <node ref="CR11" pin="3"/>
     </net>
-    <net code="151" name="Net-(C82-Pad1)">
+    <net code="152" name="Net-(C82-Pad1)">
+      <node ref="L23" pin="1"/>
       <node ref="C82" pin="1"/>
-      <node ref="FB22" pin="2"/>
-      <node ref="C83" pin="2"/>
+      <node ref="C83" pin="1"/>
       <node ref="IC11" pin="7"/>
     </net>
-    <net code="152" name="Net-(IC11-Pad8)">
+    <net code="153" name="Net-(IC11-Pad8)">
       <node ref="IC11" pin="8"/>
     </net>
-    <net code="153" name="Net-(D11-Pad3)">
-      <node ref="D11" pin="3"/>
-    </net>
-    <net code="154" name="Net-(IC12-Pad8)">
-      <node ref="IC12" pin="8"/>
+    <net code="154" name="Net-(CR12-Pad3)">
+      <node ref="CR12" pin="3"/>
     </net>
     <net code="155" name="Net-(C86-Pad1)">
-      <node ref="C87" pin="2"/>
       <node ref="IC12" pin="7"/>
+      <node ref="L25" pin="1"/>
       <node ref="C86" pin="1"/>
-      <node ref="FB24" pin="2"/>
+      <node ref="C87" pin="1"/>
     </net>
-    <net code="156" name="Net-(D12-Pad3)">
-      <node ref="D12" pin="3"/>
+    <net code="156" name="Net-(IC12-Pad8)">
+      <node ref="IC12" pin="8"/>
     </net>
   </nets>
 </export>

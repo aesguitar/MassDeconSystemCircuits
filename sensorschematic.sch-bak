@@ -13,63 +13,10 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L Device:R_US R1
-U 1 1 60F37AD0
-P 5100 3900
-AR Path="/5EA98F1B/60F37AD0" Ref="R1"  Part="1" 
-AR Path="/60B9480C/60F37AD0" Ref="R2"  Part="1" 
-AR Path="/60B94B7E/60F37AD0" Ref="R3"  Part="1" 
-AR Path="/60B95D06/60F37AD0" Ref="R4"  Part="1" 
-AR Path="/60B95D0B/60F37AD0" Ref="R5"  Part="1" 
-AR Path="/60B95D10/60F37AD0" Ref="R6"  Part="1" 
-AR Path="/60B99A53/60F37AD0" Ref="R7"  Part="1" 
-AR Path="/60B99A58/60F37AD0" Ref="R8"  Part="1" 
-AR Path="/60B99A5D/60F37AD0" Ref="R9"  Part="1" 
-AR Path="/60B99A62/60F37AD0" Ref="R10"  Part="1" 
-AR Path="/60B99A67/60F37AD0" Ref="R11"  Part="1" 
-AR Path="/60B99A6C/60F37AD0" Ref="R12"  Part="1" 
-F 0 "R1" H 5168 3946 50  0000 L CNN
-F 1 "75" H 5168 3855 50  0001 L CNN
-F 2 "" V 5140 3890 50  0001 C CNN
-F 3 "~" H 5100 3900 50  0001 C CNN
-F 4 "R" H 5100 3900 50  0001 C CNN "Spice_Primitive"
-F 5 "75" H 5168 3855 50  0000 L CNN "Spice_Model"
-F 6 "Y" H 5100 3900 50  0001 C CNN "Spice_Netlist_Enabled"
-	1    5100 3900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x03_Male J1
-U 1 1 60F387FB
-P 6400 3300
-AR Path="/5EA98F1B/60F387FB" Ref="J1"  Part="1" 
-AR Path="/60B9480C/60F387FB" Ref="J2"  Part="1" 
-AR Path="/60B94B7E/60F387FB" Ref="J3"  Part="1" 
-AR Path="/60B95D06/60F387FB" Ref="J4"  Part="1" 
-AR Path="/60B95D0B/60F387FB" Ref="J5"  Part="1" 
-AR Path="/60B95D10/60F387FB" Ref="J6"  Part="1" 
-AR Path="/60B99A53/60F387FB" Ref="J7"  Part="1" 
-AR Path="/60B99A58/60F387FB" Ref="J8"  Part="1" 
-AR Path="/60B99A5D/60F387FB" Ref="J9"  Part="1" 
-AR Path="/60B99A62/60F387FB" Ref="J10"  Part="1" 
-AR Path="/60B99A67/60F387FB" Ref="J11"  Part="1" 
-AR Path="/60B99A6C/60F387FB" Ref="J12"  Part="1" 
-F 0 "J1" H 6372 3324 50  0000 R CNN
-F 1 "Conn_01x03_Male" H 6372 3233 50  0000 R CNN
-F 2 "" H 6400 3300 50  0001 C CNN
-F 3 "~" H 6400 3300 50  0001 C CNN
-	1    6400 3300
-	-1   0    0    -1  
-$EndComp
 Wire Wire Line
 	6200 3200 5900 3200
 Wire Wire Line
 	2600 2750 2000 2750
-Wire Wire Line
-	6200 3300 5100 3300
-Wire Wire Line
-	5100 3300 5100 3750
 Wire Wire Line
 	5900 2750 5900 3200
 $Comp
@@ -201,9 +148,6 @@ Connection ~ 2600 2750
 Wire Wire Line
 	4900 3500 4900 3300
 Wire Wire Line
-	4900 3300 5100 3300
-Connection ~ 5100 3300
-Wire Wire Line
 	4100 4250 4100 4550
 $Comp
 L LM35DZ/NOPB:LM35DZ_NOPB U1
@@ -255,8 +199,6 @@ F 3 "" H 5100 4350 60  0000 C CNN
 	1    5100 4350
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	5100 4050 5100 4350
 Wire Wire Line
 	5100 4650 5100 4950
 $Comp
@@ -313,4 +255,59 @@ Wire Wire Line
 	2000 2750 2000 3150
 Wire Wire Line
 	2000 3450 2000 3800
+$Comp
+L CR0603-FX-75R0ELF:CR0603-FX-75R0ELF R1
+U 1 1 61424F1B
+P 5100 3650
+AR Path="/5EA98F1B/61424F1B" Ref="R1"  Part="1" 
+AR Path="/60B9480C/61424F1B" Ref="R2"  Part="1" 
+AR Path="/60B94B7E/61424F1B" Ref="R3"  Part="1" 
+AR Path="/60B95D06/61424F1B" Ref="R4"  Part="1" 
+AR Path="/60B95D0B/61424F1B" Ref="R5"  Part="1" 
+AR Path="/60B95D10/61424F1B" Ref="R6"  Part="1" 
+AR Path="/60B99A53/61424F1B" Ref="R7"  Part="1" 
+AR Path="/60B99A58/61424F1B" Ref="R8"  Part="1" 
+AR Path="/60B99A5D/61424F1B" Ref="R9"  Part="1" 
+AR Path="/60B99A62/61424F1B" Ref="R10"  Part="1" 
+AR Path="/60B99A67/61424F1B" Ref="R11"  Part="1" 
+AR Path="/60B99A6C/61424F1B" Ref="R12"  Part="1" 
+F 0 "R1" V 5297 3729 60  0000 L CNN
+F 1 "CR0603-FX-75R0ELF" V 5403 3729 60  0000 L CNN
+F 2 "BO_CR0603" H 5350 3315 60  0001 C CNN
+F 3 "" H 5100 3650 60  0000 C CNN
+	1    5100 3650
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4900 3300 5100 3300
+Wire Wire Line
+	5100 3650 5100 3300
+Connection ~ 5100 3300
+Wire Wire Line
+	5100 3300 6200 3300
+Wire Wire Line
+	5100 4350 5100 4150
+$Comp
+L 644752-3:644752-3 J1
+U 1 1 6196DD58
+P 5550 3450
+AR Path="/5EA98F1B/6196DD58" Ref="J1"  Part="1" 
+AR Path="/60B9480C/6196DD58" Ref="J2"  Part="1" 
+AR Path="/60B94B7E/6196DD58" Ref="J3"  Part="1" 
+AR Path="/60B95D06/6196DD58" Ref="J4"  Part="1" 
+AR Path="/60B95D0B/6196DD58" Ref="J5"  Part="1" 
+AR Path="/60B95D10/6196DD58" Ref="J6"  Part="1" 
+AR Path="/60B99A53/6196DD58" Ref="J7"  Part="1" 
+AR Path="/60B99A58/6196DD58" Ref="J8"  Part="1" 
+AR Path="/60B99A5D/6196DD58" Ref="J9"  Part="1" 
+AR Path="/60B99A62/6196DD58" Ref="J10"  Part="1" 
+AR Path="/60B99A67/6196DD58" Ref="J11"  Part="1" 
+AR Path="/60B99A6C/6196DD58" Ref="J12"  Part="1" 
+F 0 "J1" H 4482 3668 60  0000 R CNN
+F 1 "644752-3" H 4482 3562 60  0000 R CNN
+F 2 "644752-3_TYC" H 4750 3790 60  0001 C CNN
+F 3 "" H 5550 3450 60  0000 C CNN
+	1    5550 3450
+	-1   0    0    -1  
+$EndComp
 $EndSCHEMATC
